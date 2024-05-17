@@ -23,5 +23,7 @@
 - [Download](https://www.torproject.org/download/)
 - [Support](https://support.torproject.org/)
 - [News](https://blog.torproject.org/)
-
+-Core Tor / Little-t-tor
+  - [Installation / Verify source code](https://support.torproject.org/little-t-tor/)
+  - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
 ###### This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
