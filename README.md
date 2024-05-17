@@ -7,7 +7,7 @@
   - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor)
 ## Applications
 ### Tails
-*A portalble OS that runs from the RAM, leaving no trace.*
+*A portalble, Debian-based OS that runs from the RAM, leaving no trace.*
 - [Contribute](https://tails.net/contribute/index.en.html)
 - [Documentation](https://tails.net/doc/index.en.html)
 - [Download](https://tails.net/install/index.en.html)
