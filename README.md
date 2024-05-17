@@ -1,2 +1,2 @@
 # awesome-tor
-An awesome list all about TOR (The Onion Browser)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
