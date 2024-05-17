@@ -8,7 +8,13 @@
 - 
 ## Applications
 ### Tails
-
+- [Contribute](https://tails.net/contribute/index.en.html)
+- [Documentation](https://tails.net/doc/index.en.html)
+- [Download](https://tails.net/install/index.en.html)
+- [Homepage](https://tails.net/)
+- [How it works](https://tails.net/about/index.en.html)
+- [News](https://tails.net/news/index.en.html)
+- [Support](https://tails.net/support/index.en.html)
 
 
 This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
