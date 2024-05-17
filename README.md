@@ -3,8 +3,8 @@
 > Awesome Tor is a curated list of resources, tools, and applications related to the [Tor network](https://www.torproject.org/).
 ## Contents
 - [Applications](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#applications)
-  - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor)
   - [Tails](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tails)
+  - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor)
 ## Applications
 ### Tails
 *A portalble OS that runs from the RAM, leaving no trace.*
