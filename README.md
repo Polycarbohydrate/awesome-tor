@@ -5,6 +5,7 @@
 - [Applications](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#applications)
   - [Tails](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tails)
   - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor)
+  - [Other applications]()
 ## Applications
 ### Tails
 *A portalble, Debian-based OS that runs from the RAM, leaving no trace.*
@@ -26,4 +27,9 @@
 - Core Tor / Little-t-tor
   - [Installation / Verify source code](https://support.torproject.org/little-t-tor/)
   - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
+### Other applications
+- [OnionShare](https://onionshare.org/) -Anonymously share files, host website, and chat using the Tor network.
+- [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop wide use of the Tor network.
+- [Ricochet Refresh](https://www.ricochetrefresh.net/) - icochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients.
 ###### This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
+
