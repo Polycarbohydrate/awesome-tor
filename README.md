@@ -29,6 +29,7 @@
   - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
 ### Other applications
 - [kalitorify](https://github.com/brainfucksec/kalitorify) - Shell script to create a transparent proxy through Tor for Kali Linux OS.
+- [multitor](https://github.com/trimstray/multitor) - Create multiple Tor instances with a load-balancing.
 - [mini-tor](https://github.com/wbenny/mini-tor) - Project aimed at maintaing the smallest application size while accessing internet content and hidden service content.
 - [node-Tor](https://github.com/Ayms/node-Tor) - Javascript open source implementation of the Tor protocol on server side and browsers.
 - [OnionShare](https://onionshare.org/) - Anonymously share files, host website, and chat using the Tor network.
