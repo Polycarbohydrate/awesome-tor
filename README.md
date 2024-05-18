@@ -28,11 +28,14 @@
   - [Installation / Verify source code](https://support.torproject.org/little-t-tor/)
   - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
 ### Other applications
+- [kalitorify](https://github.com/brainfucksec/kalitorify) - Shell script to create a transparent proxy through Tor for Kali Linux OS.
+- [mini-tor](https://github.com/wbenny/mini-tor) - Project aimed at maintaing the smallest application size while accessing internet content and hidden service content.
 - [node-Tor](https://github.com/Ayms/node-Tor) - Javascript open source implementation of the Tor protocol on server side and browsers.
 - [OnionShare](https://onionshare.org/) - Anonymously share files, host website, and chat using the Tor network.
 - [Ricochet Refresh](https://www.ricochetrefresh.net/) - Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients.
 - [rotating-proxy](https://github.com/mattes/rotating-proxy) - Rotating Tor proxy with Docker.
 - [Tallow](https://github.com/basil00/TorWall) - Tallow is a program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
+- [Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to Tor Hidden Services by mean of common web browsers.
 - [tor-browser-selenium](https://github.com/webfp/tor-browser-selenium) - A Python library to automate Tor Browser with Selenium WebDriver.
 - [TorBot](https://github.com/DedSecInside/TorBot) - Onion site crawler for data collection.
 - [toriptabkes2](https://github.com/ruped24/toriptables2) - An anonymizer that sets up iptables and Tor to route all traffic through the Tor network.
