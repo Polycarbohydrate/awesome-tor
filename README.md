@@ -35,7 +35,7 @@
 - [Tallow](https://github.com/basil00/TorWall) - Tallow is a program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
 - [tor-browser-selenium](https://github.com/webfp/tor-browser-selenium) - A Python library to automate Tor Browser with Selenium WebDriver.
 - [TorBot](https://github.com/DedSecInside/TorBot) - Onion site crawler for data collection.
-- [toriptabkes2](https://github.com/ruped24/toriptables2) - An anonymizer that sets up iptables and tor to route all traffic through the Tor network.
+- [toriptabkes2](https://github.com/ruped24/toriptables2) - An anonymizer that sets up iptables and Tor to route all traffic through the Tor network.
 - [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop wide use of the Tor network.
 ###### This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else
 
