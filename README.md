@@ -31,5 +31,5 @@
 - [OnionShare](https://onionshare.org/) -Anonymously share files, host website, and chat using the Tor network.
 - [Ricochet Refresh](https://www.ricochetrefresh.net/) - icochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients.
 - [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop wide use of the Tor network.
-###### This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
+###### This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else
 
