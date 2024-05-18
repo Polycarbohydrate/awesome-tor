@@ -28,9 +28,12 @@
   - [Installation / Verify source code](https://support.torproject.org/little-t-tor/)
   - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
 ### Other applications
-- [OnionShare](https://onionshare.org/) -Anonymously share files, host website, and chat using the Tor network.
+- [node-Tor](https://github.com/Ayms/node-Tor) - Javascript open source implementation of the Tor protocol on server side and browsers.
+- [OnionShare](https://onionshare.org/) - Anonymously share files, host website, and chat using the Tor network.
 - [Ricochet Refresh](https://www.ricochetrefresh.net/) - Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients.
-- [rotating-proxy](https://github.com/mattes/rotating-proxy) - Rotating Tor proxy with Docker
+- [rotating-proxy](https://github.com/mattes/rotating-proxy) - Rotating Tor proxy with Docker.
+- [Tallow](https://github.com/basil00/TorWall) - Tallow is a small program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
+- [tor-browser-selenium](https://github.com/webfp/tor-browser-selenium) - A Python library to automate Tor Browser with Selenium WebDriver.
 - [TorBot](https://github.com/DedSecInside/TorBot) - Onion site crawler for data collection.
 - [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop wide use of the Tor network.
 ###### This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else
