@@ -48,7 +48,6 @@
 - [OnionShare](https://onionshare.org/) - Anonymously share files, host website, and chat using the Tor network.
 - [OONI](https://ooni.org/) - Test the blocking of websites and apps. Measure the speed and performance of your network.
 - [Orbot](https://guardianproject.info/apps/org.torproject.android/) - Tor on Android.
-- [oregano](https://github.com/nametoolong/oregano) - MITM proxy for Tor, with GnuTLS's length hiding capability.
 - [Orfox](https://guardianproject.info/apps/info.guardianproject.orfox/) - Modified Tor browser for Android. Requires Orbot.
 - [Relay Search](https://metrics.torproject.org/rs.html) - Easy way to search up information about relays.
 - [Ricochet Refresh](https://www.ricochetrefresh.net/) - Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients.
