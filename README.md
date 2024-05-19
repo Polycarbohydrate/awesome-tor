@@ -1,5 +1,5 @@
-# Awesome Tor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![awesome-tor-logo](https://github.com/Polycarbohydrate/awesome-tor/assets/169401794/d8c7415e-1874-49f5-a1c6-04b3a8aa689f)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# ![awesome-tor-logo](https://github.com/Polycarbohydrate/awesome-tor/assets/169401794/d8c7415e-1874-49f5-a1c6-04b3a8aa689f)
 > Awesome Tor is a curated list of resources, tools, and applications related to the [Tor network](https://www.torproject.org/).
 ## Contents
 - [Applications](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#applications)
