@@ -32,7 +32,7 @@
 - [Bulk Tor Exit Exporter](https://check.torproject.org/api/bulk) - Identify Tor Exit Nodes by showing exit node IPv4 and fingerprint information.
 - [Chutney](https://gitlab.torproject.org/tpo/core/chutney/) - Configures a Tor network, launches and monitors it, and then run tests on it.
 - [DocTor](https://gitlab.torproject.org/tpo/network-health/doctor/) - DocTor is a notification service that monitors newly published descriptor information for issues.
-- [eotk](https://github.com/alecmuffett/eotk) -  A tool for deploying HTTP/Onion sites to provide official onion-networking presences for popular websites.
+- [eotk](https://github.com/alecmuffett/eotk) - Tool for deploying HTTP/Onion sites to provide official, onion-networking for popular websites.
 - [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over TOR stress test tool. 
 - [exitmap](https://www.cs.kau.se/philwint/spoiled_onions/) - Scanner for Tor to detect bad exits (spoiled onions).
 - [GetTor](https://gitlab.torproject.org/legacy/trac/-/wikis/org/roadmaps/GetTor) - GetTor is a program that presents alternative methods to download Tor Browser.
@@ -79,6 +79,6 @@
 - [torps](https://github.com/torps/torps) - The Tor Path Simulator (TorPS) is a tool for efficiently simulating path selection in Tor.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - This addon protects against guard discovery and related traffic analysis attacks.
 - [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop wide use of the Tor network.
-- [ZeroNet](https://zeronet.io/) - Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network and built in Tor support.
+- [ZeroNet](https://zeronet.io/) - Free and uncensorable websites, using Bitcoin cryptography and BitTorrent network and Tor support.
 #### This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else
 
