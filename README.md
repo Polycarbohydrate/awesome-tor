@@ -11,7 +11,7 @@
 - [Hosting Relays](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#hosting-relays)
 ## Applications
 ### Tails
-*A portalble, Debian-based OS that runs from the RAM, leaving no trace.*
+*A portalble, Debian-based OS that runs from the RAM, leaving no trace. Uses Tor browser as the primary browser.*
 - [Contribute](https://tails.net/contribute/index.en.html)
 - [Documentation](https://tails.net/doc/index.en.html)
 - [Download](https://tails.net/install/index.en.html)
