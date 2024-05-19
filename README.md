@@ -7,7 +7,7 @@
   - [Tails](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tails)
   - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor--tor-browser)
 - [Bridges](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Bridges)
-- [Documentation](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Documentation)
+- [Manual](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Manual)
 ## Applications
 ### Tails
 *A portalble, Debian-based OS that runs from the RAM, leaving no trace.*
@@ -96,7 +96,28 @@
 - [obsf4](https://support.torproject.org/glossary/obfs4/) - A pluggable transport that makes Tor traffic look random and also prevents censors from finding bridges by Internet scanning.
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
 - [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - WebTunnel is a censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
-## Documentation
+## Manual
+- [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
+- [Anti-fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) - How Tor Browser mitigates browser fingerprinting.
+- [Bridges](https://tb-manual.torproject.org/bridges/) - Most Pluggable Transports, such as obfs4, rely on the use of "bridge" relays.
+- [Circumvention](https://tb-manual.torproject.org/circumvention/) - What to do if the Tor network is blocked.
+- [Downloading](https://tb-manual.torproject.org/downloading/) - How to download Tor Browser.
+- [Installation](https://tb-manual.torproject.org/installation/) - Installing Tor Browser.
+- [Known Issues](https://tb-manual.torproject.org/known-issues/) - Issues with Tor.
+- [Make Tor Browser Portable](https://tb-manual.torproject.org/make-tor-portable/) - How to install Tor Browser onto removable media.
+- [Managing Identities](https://tb-manual.torproject.org/managing-identities/) - Learn how to control personally-identifying information in Tor Browser.
+- [Mobile Tor](https://tb-manual.torproject.org/mobile-tor/) - Learn about Tor for mobile devices.
+- [Onion Services](https://tb-manual.torproject.org/onion-services/) - Services that are only accessible using Tor.
+- [Plugins, add-ons, and JavaScript](https://tb-manual.torproject.org/plugins/) - How Tor Browser handles add-ons, plugins and JavaScript.
+- [Running Tor Browser](https://tb-manual.torproject.org/running-tor-browser/) - Learn how to use Tor Browser for the first time.
+- [Secure Connections](https://tb-manual.torproject.org/secure-connections/) - Learn how to protect your data using Tor Browser and HTTPS.
+- [Security Settings](https://tb-manual.torproject.org/security-settings/) - Configuring Tor Browser for security and usability.
+- [Support](https://tb-manual.torproject.org/support/) - How to get help, report a bug or give feedback.
+- [Troubleshooting](https://tb-manual.torproject.org/troubleshooting/) - What to do if Tor Browser doesn't work properly.
+- [Updating](https://tb-manual.torproject.org/updating/) - How to update Tor Browser.
+- [Uninstalling](https://tb-manual.torproject.org/uninstalling/) - How to remove Tor Browser from your system.
+
+
 ## Footnotes
 This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
 
