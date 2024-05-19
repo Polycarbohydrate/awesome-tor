@@ -16,7 +16,7 @@
 - [How it works](https://tails.net/about/index.en.html)
 - [News](https://tails.net/news/index.en.html)
 - [Support](https://tails.net/support/index.en.html)
-### Tor
+### Tor / Tor Browser
 *Open-source web browser that enables anonymous communication by directing internet traffic through a free, worldwide, volunteer, overlay network to conceal location and usage from anyone conducting network surveillance or traffic analysis.*
 - [About](https://www.torproject.org/about/history/)
 - [Commmunity](https://community.torproject.org/)
@@ -34,10 +34,12 @@
 - [Bulk Tor Exit Exporter](https://check.torproject.org/api/bulk) - Identify Tor Exit Nodes by showing exit node IPv4 and fingerprint information.
 - [Chutney](https://gitlab.torproject.org/tpo/core/chutney/) - Configures a Tor network, launches and monitors it, and then run tests on it.
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - A flexible DNS proxy, with support for encrypted DNS protocols.
+- [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over TOR stress test tool. 
 - [DocTor](https://gitlab.torproject.org/tpo/network-health/doctor/) - DocTor is a notification service that monitors newly published descriptor information for issues.
 - [eotk](https://github.com/alecmuffett/eotk) - Tool for deploying HTTP/Onion sites to provide official, onion-networking for popular websites.
-- [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over TOR stress test tool. 
 - [exitmap](https://www.cs.kau.se/philwint/spoiled_onions/) - Scanner for Tor to detect bad exits (spoiled onions).
+- [haskell-tor](https://github.com/GaloisInc/haskell-tor) - A Haskell implementation of the Tor protocol.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Only allows browser to connect using HTTPS, built in Tor.
 - [kalitorify](https://github.com/brainfucksec/kalitorify) - Shell script to create a transparent proxy through Tor for Kali Linux OS.
 - [Tor Metrics](https://metrics.torproject.org/) - Adjustable graphs to visualize statistics of Tor.
 - [multitor](https://github.com/trimstray/multitor) - Create multiple Tor instances with a load-balancing.
@@ -82,6 +84,7 @@
 - [torps](https://github.com/torps/torps) - The Tor Path Simulator (TorPS) is a tool for efficiently simulating path selection in Tor.
 - [Torsocks](https://gitlab.torproject.org/tpo/core/torsocks/) - Allows you to use most applications in a safe way with Tor.
 - [Tortilla](https://www.crowdstrike.com/resources/community-tools/tortilla-tool/) - Tool that securely, anonymously, and transparently route all TCP/IP and DNS traffic through Tor.
+- [tun2tor](https://github.com/iCepa/tun2tor) - Rust library that creates a utun (userspace tunnel) interface, and connects it to to a stream-based proxy like tor.
 - [txtorcon](https://txtorcon.readthedocs.io/en/latest/) - An implementation of the control-spec for Tor using the Twisted networking library for Python.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - This addon protects against guard discovery and related traffic analysis attacks.
 - [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop wide use of the Tor network.
