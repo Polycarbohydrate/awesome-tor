@@ -62,7 +62,6 @@
 - [tor-browser-selenium](https://github.com/webfp/tor-browser-selenium) - A Python library to automate Tor Browser with Selenium WebDriver.
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor Onion Services on Kubernetes.
 - [tor-hidden-service](https://hub.docker.com/r/goldy/tor-hidden-service) - Docker container made for Onion Services in v2 or v3.
-- [tor-ramdisk](https://gitlab.torproject.org/legacy/gitolite/tor-ramdisk) - uClibc Linux distribution to host a Tor server only in RAM.
 - [Tor.framework](https://github.com/iCepa/Tor.framework) - Tor.framework is the easiest way to embed Tor in your iOS application.
 - [Tor2web](https://github.com/tor2web/Tor2web) - HTTP proxy software that enables access to Tor Hidden Services through common web browsers.
 - [ToRAT](https://github.com/lu4p/ToRat) - A Cross Platform Remote Administration tool written in Go using Tor.
