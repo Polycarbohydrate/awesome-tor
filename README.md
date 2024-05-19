@@ -84,7 +84,7 @@
 - [torps](https://github.com/torps/torps) - The Tor Path Simulator (TorPS) is a tool for efficiently simulating path selection in Tor.
 - [Torsocks](https://gitlab.torproject.org/tpo/core/torsocks/) - Allows you to use most applications in a safe way with Tor.
 - [Tortilla](https://www.crowdstrike.com/resources/community-tools/tortilla-tool/) - Tool that securely, anonymously, and transparently route all TCP/IP and DNS traffic through Tor.
-- [tun2tor](https://github.com/iCepa/tun2tor) - Rust library that creates a utun (userspace tunnel) interface, and connects it to a stream-based proxy like tor.
+- [tun2tor](https://github.com/iCepa/tun2tor) - Rust library that creates a utun (userspace tunnel) interface, and connects it to a stream-based proxy.
 - [txtorcon](https://txtorcon.readthedocs.io/en/latest/) - An implementation of the control-spec for Tor using the Twisted networking library for Python.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - This addon protects against guard discovery and related traffic analysis attacks.
 - [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop wide use of the Tor network.
