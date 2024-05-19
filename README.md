@@ -17,7 +17,7 @@
 - [News](https://tails.net/news/index.en.html)
 - [Support](https://tails.net/support/index.en.html)
 ### Tor
-*Open-source web browser that enables anonymous communication by directing internet traffic through a free, worldwide, volunteer overlay network to conceal a user’s location and usage from anyone conducting network surveillance or traffic analysis.*
+* *Open-source web browser that enables anonymous communication by directing internet traffic through a free, worldwide, volunteer overlay network to conceal a user’s location and usage from anyone conducting network surveillance or traffic analysis*
 - [About](https://www.torproject.org/about/history/)
 - [Commmunity](https://community.torproject.org/)
 - [Donate](https://donate.torproject.org/)
@@ -40,7 +40,7 @@
 - [Tor Metrics](https://metrics.torproject.org/) - Adjustable graphs to visualize statistics of Tor.
 - [multitor](https://github.com/trimstray/multitor) - Create multiple Tor instances with a load-balancing.
 - [mini-tor](https://github.com/wbenny/mini-tor) - Project aimed at maintaing the smallest application size while accessing internet content and hidden service content.
-- [node-Tor](https://github.com/Ayms/node-Tor) - Javascript open source implementation of the Tor protocol on server side and browsers.
+- [node-Tor](https://github.com/Ayms/node-Tor) - JavaScript open source implementation of the Tor protocol on server side and browsers.
 - [nyx](https://nyx.torproject.org/) - CLI interace which includes detailed real-time information about your relay such as bandwidth usage, connections, logs, etc.
 - [offensive-tor-toolkit](https://github.com/atorrescogollo/offensive-tor-toolkit) - Bind/Reverse Shells, SOCKS, etc over Tor in Go.
 - [Onionbalance](https://onionbalance.readthedocs.io/en/latest/) - Way to load balance onion services across multiple backend Tor instances.
@@ -56,7 +56,7 @@
 - [rotating-proxy](https://github.com/mattes/rotating-proxy) - Rotating Tor proxy with Docker.
 - [sbws](https://gitlab.torproject.org/tpo/network-health/sbws) - Simple Bandwidth Scanner is a Tor bandwidth scanner that generates bandwidth files to be used by Directory Authorities.
 - [Stormy](https://github.com/glamrock/stormy) - Stormy is a wizard to help people create Tor Onion Services with just a couple of clicks.
-- [setup-tor](https://github.com/tor-actions/setup-tor) - Set up your GitHub Actions workflow with a specific version of Tor
+- [setup-tor](https://github.com/tor-actions/setup-tor) - Set up your GitHub Actions workflow with a specific version of Tor.
 - [Stem](https://stem.torproject.org/) - Stem is a Python controller library for Tor.
 - [Shadow](https://shadow.github.io/) - Shadow is a discrete-event network simulator that runs the real Tor software as a plug-in.
 - [Tallow](https://github.com/basil00/TorWall) - Tallow is a program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
@@ -70,10 +70,10 @@
 - [ToRAT](https://github.com/lu4p/ToRat) - A Cross Platform Remote Administration tool written in Go using Tor.
 - [TorBirdy](https://gitlab.torproject.org/legacy/gitolite/torbirdy/) - TorBirdy is an extension that brings safe Tor support to Thunderbird.
 - [TorBot](https://github.com/DedSecInside/TorBot) - Onion site crawler for data collection.
-- [TorChat-Mac](https://github.com/javerous/TorChat-Mac) - MacOS native TorChat client
+- [TorChat-Mac](https://github.com/javerous/TorChat-Mac) - macOS native TorChat client.
 - [TorChat](https://github.com/prof7bit/TorChat) - Decentralized anonymous instant messenger on top of Tor Hidden Services.
 - [TorCheck](https://check.torproject.org/) - Determines if a visitor is using Tor or not.
-- [torDDoS](https://github.com/r3nt0n/torDDoS) -TorDDos is a Python tool to automatize DDos attacks to a website from the Tor network.
+- [torDDoS](https://github.com/r3nt0n/torDDoS) - TorDDos is a Python tool to automatize DDos attacks to a website from the Tor network.
 - [torflow](https://gitlab.torproject.org/tpo/network-health/torflow/) - TorFlow is a set of python scripts written to scan the Tor network for misbehaving, misconfigured, and overloaded Tor nodes.
 - [toriptabkes2](https://github.com/ruped24/toriptables2) - An anonymizer that sets up iptables and Tor to route all traffic through the Tor network.
 - [torps](https://github.com/torps/torps) - The Tor Path Simulator (TorPS) is a tool for efficiently simulating path selection in Tor.
