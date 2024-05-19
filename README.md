@@ -64,7 +64,6 @@
 - [tor-hidden-service](https://hub.docker.com/r/goldy/tor-hidden-service) - Docker container made for Onion Services in v2 or v3.
 - [Tor.framework](https://github.com/iCepa/Tor.framework) - Tor.framework is the easiest way to embed Tor in your iOS application.
 - [Tor2web](https://github.com/tor2web/Tor2web) - HTTP proxy software that enables access to Tor Hidden Services through common web browsers.
-- [TorBirdy](https://gitlab.torproject.org/legacy/gitolite/torbirdy/) - TorBirdy is an extension that brings safe Tor support to Thunderbird.
 - [TorBot](https://github.com/DedSecInside/TorBot) - Onion site crawler for data collection.
 - [TorChat-Mac](https://github.com/javerous/TorChat-Mac) - macOS native TorChat client.
 - [TorChat](https://github.com/prof7bit/TorChat) - Decentralized anonymous instant messenger on top of Tor Hidden Services.
