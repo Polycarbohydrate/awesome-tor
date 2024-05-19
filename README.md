@@ -8,6 +8,7 @@
   - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor--tor-browser)
 - [Bridges](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Bridges)
 - [Manual](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Manual)
+- [Hosting Relays](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#hosting-relays)
 ## Applications
 ### Tails
 *A portalble, Debian-based OS that runs from the RAM, leaving no trace.*
@@ -96,6 +97,7 @@
 - [obsf4](https://support.torproject.org/glossary/obfs4/) - A pluggable transport that makes Tor traffic look random and also prevents censors from finding bridges by Internet scanning.
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
 - [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - WebTunnel is a censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
+## Hosting Relays
 ## Manual
 - [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
 - [Anti-fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) - How Tor Browser mitigates browser fingerprinting.
