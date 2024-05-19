@@ -35,7 +35,6 @@
 - [eotk](https://github.com/alecmuffett/eotk) - Tool for deploying HTTP/Onion sites to provide official, onion-networking for popular websites.
 - [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over TOR stress test tool. 
 - [exitmap](https://www.cs.kau.se/philwint/spoiled_onions/) - Scanner for Tor to detect bad exits (spoiled onions).
-- [GetTor](https://gitlab.torproject.org/legacy/trac/-/wikis/org/roadmaps/GetTor) - GetTor is a program that presents alternative methods to download Tor Browser.
 - [kalitorify](https://github.com/brainfucksec/kalitorify) - Shell script to create a transparent proxy through Tor for Kali Linux OS.
 - [Tor Metrics](https://metrics.torproject.org/) - Adjustable graphs to visualize statistics of Tor.
 - [multitor](https://github.com/trimstray/multitor) - Create multiple Tor instances with a load-balancing.
