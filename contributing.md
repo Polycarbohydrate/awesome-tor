@@ -6,5 +6,5 @@ This project is released with a [Contributor Code of Conduct](https://github.com
 - No archived repositories or archived GitLab projects.
 - It must relate to this awesome list.
 - The addition must be useful.
-- Capitalize proper nouns as well as use the proper capitalization. `(Don't do: python ❌| Do: Python ✅| Don't do: Gitlab ❌| Do: GitLab ✅)`
-- The pull request should be in the format of `Add *Name of thing* (Add Tor Browser ✅)`
+- Capitalize proper nouns as well. `(Don't do: python ❌| Do: Python ✅| Don't do: Gitlab ❌| Do: GitLab ✅)`
+- The pull request should be in the format of `Add *Name of thing* (Add Tor Browser ✅).`
