@@ -91,7 +91,10 @@
 - [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop wide use of the Tor network.
 - [ZeroNet](https://zeronet.io/) - Free and uncensorable websites, using Bitcoin cryptography and BitTorrent network and Tor support.
 ## Bridges
-[obsf4](https://support.torproject.org/glossary/obfs4/) - Obfs4 is a pluggable transport that makes Tor traffic look random and also prevents censors from finding bridges by Internet scanning.
+[meek](https://support.torproject.org/glossary/meek/) - These pluggable transports all make it look like you are browsing a major web site instead of using Tor.
+[obsf4](https://support.torproject.org/glossary/obfs4/) - A pluggable transport that makes Tor traffic look random and also prevents censors from finding bridges by Internet scanning.
+[Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
+[Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - WebTunnel is a censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
 ## Footnotes
 This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
 
