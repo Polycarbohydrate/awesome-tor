@@ -69,7 +69,6 @@
 - [TorChat](https://github.com/prof7bit/TorChat) - Decentralized anonymous instant messenger on top of Tor Hidden Services.
 - [TorCheck](https://check.torproject.org/) - Determines if a visitor is using Tor or not.
 - [torDDoS](https://github.com/r3nt0n/torDDoS) - TorDDos is a Python tool to automatize DDos attacks to a website from the Tor network.
-- [torflow](https://gitlab.torproject.org/tpo/network-health/torflow/) - Python scripts that scan the Tor network for misbehaving, misconfigured, and overloaded Tor nodes.
 - [toriptabkes2](https://github.com/ruped24/toriptables2) - An anonymizer that sets up iptables and Tor to route all traffic through the Tor network.
 - [torps](https://github.com/torps/torps) - The Tor Path Simulator (TorPS) is a tool for efficiently simulating path selection in Tor.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - This addon protects against guard discovery and related traffic analysis attacks.
