@@ -74,5 +74,6 @@
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - This addon protects against guard discovery and related traffic analysis attacks.
 - [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop wide use of the Tor network.
 - [ZeroNet](https://zeronet.io/) - Free and uncensorable websites, using Bitcoin cryptography and BitTorrent network and Tor support.
-#### This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else
+## Footnotes
+This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else
 
