@@ -28,6 +28,8 @@
   - [Installation / Verify source code](https://support.torproject.org/little-t-tor/)
   - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
 ### Other applications
+- [ansible-relayor](https://github.com/nusenu/ansible-relayor) - This is an ansible role for tor relay operators.
+- [bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers.
 - [Briar](https://briarproject.org/) - Peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi or Tor.
 - [Bulk Tor Exit Exporter](https://check.torproject.org/api/bulk) - Identify Tor Exit Nodes by showing exit node IPv4 and fingerprint information.
 - [Chutney](https://gitlab.torproject.org/tpo/core/chutney/) - Configures a Tor network, launches and monitors it, and then run tests on it.
@@ -49,6 +51,7 @@
 - [OONI](https://ooni.org/) - Test the blocking of websites and apps. Measure the speed and performance of your network.
 - [Orbot](https://guardianproject.info/apps/org.torproject.android/) - Tor on Android.
 - [Orfox](https://guardianproject.info/apps/info.guardianproject.orfox/) - Modified Tor browser for Android. Requires Orbot.
+- [php-torcontrol](https://github.com/dunglas/php-torcontrol) - TorControl is a PHP library to control a Tor server.
 - [Relay Search](https://metrics.torproject.org/rs.html) - Easy way to search up information about relays.
 - [Ricochet Refresh](https://www.ricochetrefresh.net/) - Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients.
 - [rotating-proxy](https://github.com/mattes/rotating-proxy) - Rotating Tor proxy with Docker.
@@ -58,11 +61,14 @@
 - [Stem](https://stem.torproject.org/) - Stem is a Python controller library for Tor.
 - [Shadow](https://shadow.github.io/) - Shadow is a discrete-event network simulator that runs the real Tor software as a plug-in.
 - [Tallow](https://github.com/basil00/TorWall) - A program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
+- [tor_box](https://github.com/CMoncur/tor_box) - An all-inclusive Tor configuration for Raspberry Pi, serves as both a relay and personal Tor network.
 - [Tor_Onion_Proxy](https://github.com/thaliproject/Tor_Onion_Proxy_Library) - Provides a .JAR and an .AAR file for embedding Tor into a Java or Android Program.
 - [tor-browser-selenium](https://github.com/webfp/tor-browser-selenium) - A Python library to automate Tor Browser with Selenium WebDriver.
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor Onion Services on Kubernetes.
 - [tor-hidden-service](https://hub.docker.com/r/goldy/tor-hidden-service) - Docker container made for Onion Services in v2 or v3.
+- [tor-relay-bootstrap](https://github.com/coldhakca/tor-relay-bootstrap) - Script to bootstrap a Debian server to be a set-and-forget Tor relay.
 - [Tor.framework](https://github.com/iCepa/Tor.framework) - Tor.framework is the easiest way to embed Tor in your iOS application.
+- [tor.rb](https://github.com/dryruby/tor.rb) - This is a Ruby library for interacting with the Tor anonymity network.
 - [Tor2web](https://github.com/tor2web/Tor2web) - HTTP proxy software that enables access to Tor Hidden Services through common web browsers.
 - [TorBot](https://github.com/DedSecInside/TorBot) - Onion site crawler for data collection.
 - [TorChat-Mac](https://github.com/javerous/TorChat-Mac) - macOS native TorChat client.
@@ -71,6 +77,7 @@
 - [torDDoS](https://github.com/r3nt0n/torDDoS) - TorDDos is a Python tool to automatize DDos attacks to a website from the Tor network.
 - [toriptabkes2](https://github.com/ruped24/toriptables2) - An anonymizer that sets up iptables and Tor to route all traffic through the Tor network.
 - [torps](https://github.com/torps/torps) - The Tor Path Simulator (TorPS) is a tool for efficiently simulating path selection in Tor.
+- [txtorcon](https://txtorcon.readthedocs.io/en/latest/) - An implementation of the control-spec for Tor using the Twisted networking library for Python.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - This addon protects against guard discovery and related traffic analysis attacks.
 - [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop wide use of the Tor network.
 - [ZeroNet](https://zeronet.io/) - Free and uncensorable websites, using Bitcoin cryptography and BitTorrent network and Tor support.
