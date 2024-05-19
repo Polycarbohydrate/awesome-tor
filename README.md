@@ -28,18 +28,18 @@
   - [Installation / Verify source code](https://support.torproject.org/little-t-tor/)
   - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
 ### Other applications
-- [Briar](https://briarproject.org/) - Peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi or Tor, with privacy built-in.
+- [Briar](https://briarproject.org/) - Peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi or Tor.
 - [Bulk Tor Exit Exporter](https://check.torproject.org/api/bulk) - Identify Tor Exit Nodes by showing exit node IPv4 and fingerprint information.
 - [Chutney](https://gitlab.torproject.org/tpo/core/chutney/) - Configures a Tor network, launches and monitors it, and then run tests on it.
 - [DocTor](https://gitlab.torproject.org/tpo/network-health/doctor/) - DocTor is a notification service that monitors newly published descriptor information for issues.
-- [eotk](https://github.com/alecmuffett/eotk) -  A tool for deploying regular and onion sites to provide official onion-networking presences for popular websites.
+- [eotk](https://github.com/alecmuffett/eotk) -  A tool for deploying HTTP/Onion sites to provide official onion-networking presences for popular websites.
 - [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over TOR stress test tool. 
 - [exitmap](https://www.cs.kau.se/philwint/spoiled_onions/) - Scanner for Tor to detect bad exits (spoiled onions).
 - [GetTor](https://gitlab.torproject.org/legacy/trac/-/wikis/org/roadmaps/GetTor) - GetTor is a program that presents alternative methods to download Tor Browser.
 - [kalitorify](https://github.com/brainfucksec/kalitorify) - Shell script to create a transparent proxy through Tor for Kali Linux OS.
 - [Tor Metrics](https://metrics.torproject.org/) - Adjustable graphs to visualize statistics of Tor.
 - [multitor](https://github.com/trimstray/multitor) - Create multiple Tor instances with a load-balancing.
-- [mini-tor](https://github.com/wbenny/mini-tor) - Project maintaing the smallest application size while accessing internet content and hidden service content.
+- [mini-tor](https://github.com/wbenny/mini-tor) - Smallest application size while accessing internet content and hidden service content.
 - [node-Tor](https://github.com/Ayms/node-Tor) - JavaScript open source implementation of the Tor protocol on server side and browsers.
 - [nyx](https://nyx.torproject.org/) - CLI interace which includes detailed real-time information about your relay.
 - [offensive-tor-toolkit](https://github.com/atorrescogollo/offensive-tor-toolkit) - Bind/Reverse Shells, SOCKS, etc over Tor in Go.
@@ -66,7 +66,7 @@
 - [tor-hidden-service](https://hub.docker.com/r/goldy/tor-hidden-service) - Docker container made for Onion Services in v2 or v3.
 - [tor-ramdisk](https://gitlab.torproject.org/legacy/gitolite/tor-ramdisk) - uClibc Linux distribution to host a Tor server only in RAM.
 - [Tor.framework](https://github.com/iCepa/Tor.framework) - Tor.framework is the easiest way to embed Tor in your iOS application.
-- [Tor2web](https://github.com/tor2web/Tor2web) - An HTTP proxy software that enables access to Tor Hidden Services by mean of common web browsers.
+- [Tor2web](https://github.com/tor2web/Tor2web) - HTTP proxy software that enables access to Tor Hidden Services through common web browsers.
 - [ToRAT](https://github.com/lu4p/ToRat) - A Cross Platform Remote Administration tool written in Go using Tor.
 - [TorBirdy](https://gitlab.torproject.org/legacy/gitolite/torbirdy/) - TorBirdy is an extension that brings safe Tor support to Thunderbird.
 - [TorBot](https://github.com/DedSecInside/TorBot) - Onion site crawler for data collection.
@@ -74,7 +74,7 @@
 - [TorChat](https://github.com/prof7bit/TorChat) - Decentralized anonymous instant messenger on top of Tor Hidden Services.
 - [TorCheck](https://check.torproject.org/) - Determines if a visitor is using Tor or not.
 - [torDDoS](https://github.com/r3nt0n/torDDoS) - TorDDos is a Python tool to automatize DDos attacks to a website from the Tor network.
-- [torflow](https://gitlab.torproject.org/tpo/network-health/torflow/) - Python scripts written to scan the Tor network for misbehaving, misconfigured, and overloaded Tor nodes.
+- [torflow](https://gitlab.torproject.org/tpo/network-health/torflow/) - Python scripts that scan the Tor network for misbehaving, misconfigured, and overloaded Tor nodes.
 - [toriptabkes2](https://github.com/ruped24/toriptables2) - An anonymizer that sets up iptables and Tor to route all traffic through the Tor network.
 - [torps](https://github.com/torps/torps) - The Tor Path Simulator (TorPS) is a tool for efficiently simulating path selection in Tor.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) - This addon protects against guard discovery and related traffic analysis attacks.
