@@ -128,7 +128,7 @@
 - [State of the Onion - 2023](https://blog.torproject.org/event/state-of-the-onion-2023/) - Tor Project's annual virtual event where we share updates from Tor Project’s teams and community, highlighting their work and the impact it has made across the globe during the year.
 - [Techinal and Legal overview of Tor](https://ccdcoe.org/uploads/2018/10/TOR_Anonymity_Network.pdf) - Overview of Tor presented from the technical perspective and also several legal issues related to its use are analysed.
 - [Tor after the Snowden revelations](https://blog.torproject.org/tor-in-2023/) - About the Snowden revelations and what Tor will do in 2024. How People Got Caught
-- [Tor Browser Afforded CDA Immunity for Dark Web Transactions](https://www.proskauer.com/blog/the-tor-browser-afforded-cda-immunity-for-dark-web-transactions) - Court document about the death of a minor through purchasing of narcotics on Tor.
+- [Tor Browser Afforded CDA Immunity for Dark Web Transactions](https://www.govinfo.gov/content/pkg/USCOURTS-utd-2_18-cv-00712/pdf/USCOURTS-utd-2_18-cv-00712-0.pdf) - Court document about the death of a minor through purchasing of narcotics on Tor.
 - [Tor Hidden Services and Deanonyminization](https://www.youtube.com/watch?v=HQXRURfrf8w) - Talk about how Tor and its services can be exploited to expose a user's information as well as how to prevent attacks.
 - [Understanding The Onion Router in 2024](https://www.privacyjournal.net/privacy/tor-network/) - Explains what Tor is; update for 2024.
 
