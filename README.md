@@ -8,6 +8,7 @@
   - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor--tor-browser)
 - [Bridges](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Bridges)
 - [Manual](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Manual)
+- [Public reception, Impact, and Legislation](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#)
 ## Applications
 ### Tails
 *A portalble, Debian-based OS that runs from the RAM, leaving no trace. Uses Tor browser as the primary browser.*
@@ -116,6 +117,7 @@
 - [Troubleshooting](https://tb-manual.torproject.org/troubleshooting/) - What to do if Tor Browser doesn't work properly.
 - [Updating](https://tb-manual.torproject.org/updating/) - How to update Tor Browser.
 - [Uninstalling](https://tb-manual.torproject.org/uninstalling/) - How to remove Tor Browser from your system.
+# Public reception, Impact, and Legislation
 
 
 ## Footnotes
