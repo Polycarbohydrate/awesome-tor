@@ -94,8 +94,14 @@
 - [ZeroNet](https://zeronet.io/) - Free and uncensorable websites, using Bitcoin cryptography and BitTorrent network and Tor support.
 ## Bridges
 - [BridgeDB](https://pythonhosted.org/bridgedb/) - BridgeDB is a collection of backend servers used to distribute Tor Bridges.
+- [Conjure](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/conjure) - Conjure is an anti-censorship tool in the refraction networking (a.k.a. decoy routing) lineage of circumvention systems.
+- [Flash Proxies](https://crypto.stanford.edu/flashproxy/) - Outdated and deprecated bridge type. It is a miniature proxy that runs in a web browser.
+- [fteproxy](https://fteproxy.org/) - Outdated and deprecated bridge type. Tor traffic resemble plain HTTP. The name stands for "Format-Transforming Encryption."
 - [meek](https://support.torproject.org/glossary/meek/) - These pluggable transports all make it look like you are browsing a major web site instead of using Tor.
+- [obsf2](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/trac/-/issues/10314) - Outdated and deprecated bridge type. Predecessor of obsf3.
+- [obsf3](https://support.torproject.org/glossary/obfs3/) - Outdated and deprecated bridge type. Predecessor of obsf4.
 - [obsf4](https://support.torproject.org/glossary/obfs4/) - A pluggable transport that makes Tor traffic look random and also prevents censors from finding bridges by Internet scanning.
+- [ScrambleSuit](https://github.com/NullHypothesis/scramblesuit) - Outdated and deprecated bridge type. ScrambleSuit is a pluggable transport protocol for obfsproxy. It is written in pure Python.
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
 - [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - WebTunnel is a censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
 ## Manual
@@ -134,6 +140,7 @@
 - [Tor Hidden Services and Deanonyminization](https://www.youtube.com/watch?v=HQXRURfrf8w) - Talk about how Tor and its services can be exploited to expose a user's information as well as how to prevent attacks.
 - [Tor Overview](https://www.privacyguides.org/en/advanced/tor-overview/) - Overview of Tor by Privacyguides.
 - [Understanding The Onion Router in 2024](https://www.privacyjournal.net/privacy/tor-network/) - Explains what Tor is; update for 2024.
+- [What is Tor?](https://www.amnesty.org/en/latest/campaigns/2024/02/what-is-tor-and-how-does-it-advance-human-rights/) - Gives a very good explaination for Tor, Onion Services, and how it promotes human rights.
 
 
 ## Footnotes
