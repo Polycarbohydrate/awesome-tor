@@ -117,7 +117,9 @@
 - [Troubleshooting](https://tb-manual.torproject.org/troubleshooting/) - What to do if Tor Browser doesn't work properly.
 - [Updating](https://tb-manual.torproject.org/updating/) - How to update Tor Browser.
 - [Uninstalling](https://tb-manual.torproject.org/uninstalling/) - How to remove Tor Browser from your system.
-# Public reception, Impact, and Legislation
+## Public reception, Impact, and Legislation
+- [Tor after the Snowden revelations](https://blog.torproject.org/tor-in-2023/) - About the Snowden revelations and what Tor will do in 2024.
+- 
 
 
 ## Footnotes
