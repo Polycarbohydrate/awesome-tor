@@ -120,7 +120,7 @@
 ## Public reception, Impact, News, and Legislation
 - [Tor after the Snowden revelations](https://blog.torproject.org/tor-in-2023/) - About the Snowden revelations and what Tor will do in 2024.
 - [Snowden Revelations](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) - The Snowden Revelations explained.
-- [Techinal and Legal overview of Tor](https://ccdcoe.org/uploads/2018/10/TOR_Anonymity_Network.pdf) - In this paper an overview of the Tor anonymisation network is presented from the technical perspective and also several legal issues related to its use are analysed.
+- [Techinal and Legal overview of Tor](https://ccdcoe.org/uploads/2018/10/TOR_Anonymity_Network.pdf) - Overview of Tor presented from the technical perspective and also several legal issues related to its use are analysed.
 
 
 ## Footnotes
