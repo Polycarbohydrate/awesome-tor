@@ -128,7 +128,7 @@
 - [Anarcho-Tech NYC Wiki](https://github.com/AnarchoTechNYC/meta/wiki) - Wiki that explains how to stay private and anonymous online.
 - [Anonymity Bibliography](https://www.freehaven.net/anonbib/) - Selected papers in anonymity from 1977 - 2020.
 - [Dropping Docs on Darknet](https://www.youtube.com/watch?v=eQ2OZKitRwc) - DEF CON 22 - Adrian Crenshaw- Dropping Docs on Darknets: How People Got Caught.
-- [How governments have tried to block Tor](https://www.youtube.com/watch?v=DX46Qv_b7F4) - How governments have tried to block Tor by 28c3
+- [How governments have tried to block Tor](https://www.youtube.com/watch?v=DX46Qv_b7F4) - How governments have tried to block Tor by 28c3.
 - [How the Great Firewall of China is banned in China](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf) - Paper explaining how Tor is banned in China along with ways to circumvent it.
 - [Scaling Tor hidden services](https://www.benthamsgaze.org/2015/11/17/scaling-tor-hidden-services/) - How to scale hidden services.
 - [Snowden Revelations](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) - The Snowden Revelations explained.
