@@ -127,15 +127,15 @@
 ## Public reception, Impact, News, and Legislation
 - [Anarcho-Tech NYC Wiki](https://github.com/AnarchoTechNYC/meta/wiki) - Wiki that explains how to stay private and anonymous online.
 - [Anonymity Bibliography](https://www.freehaven.net/anonbib/) - Selected papers in anonymity from 1977 - 2020.
-- [Dropping Docs on Darknet](https://www.youtube.com/watch?v=eQ2OZKitRwc) - DEF CON 22 - Adrian Crenshaw- Dropping Docs on Darknets: How People Got Caught
-- [How governments have tried to block Tor](https://www.youtube.com/watch?v=DX46Qv_b7F4) How governments have tried to block Tor by 28c3
+- [Dropping Docs on Darknet](https://www.youtube.com/watch?v=eQ2OZKitRwc) - DEF CON 22 - Adrian Crenshaw- Dropping Docs on Darknets: How People Got Caught.
+- [How governments have tried to block Tor](https://www.youtube.com/watch?v=DX46Qv_b7F4) - How governments have tried to block Tor by 28c3
 - [How the Great Firewall of China is banned in China](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf) - Paper explaining how Tor is banned in China along with ways to circumvent it.
 - [Scaling Tor hidden services](https://www.benthamsgaze.org/2015/11/17/scaling-tor-hidden-services/) - How to scale hidden services.
 - [Snowden Revelations](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) - The Snowden Revelations explained.
-- [State of the Onion - 2023](https://blog.torproject.org/event/state-of-the-onion-2023/) - Tor Project's annual virtual event where we share updates from Tor Project’s teams and community, highlighting their work and the impact it has made across the globe during the year.
+- [State of the Onion - 2023](https://blog.torproject.org/event/state-of-the-onion-2023/) - Tor Project's annual virtual event where we share updates from teams and community, highlighting their work and the impact it has made across the globe during the year.
 - [Russia Passes Bill Banning Tor](https://www.themoscowtimes.com/2021/12/08/russia-blocks-tor-anonymity-service-a75760) - Article about Russia banning VPNs and Tor.
 - [Techinal and Legal overview of Tor](https://ccdcoe.org/uploads/2018/10/TOR_Anonymity_Network.pdf) - Overview of Tor presented from the technical perspective and also several legal issues related to its use are analysed.
-- [Tor after the Snowden revelations](https://blog.torproject.org/tor-in-2023/) - About the Snowden revelations and what Tor will do in 2024. How People Got Caught
+- [Tor after the Snowden revelations](https://blog.torproject.org/tor-in-2023/) - About the Snowden revelations and what Tor will do in 2024. How People Got Caught.
 - [Tor Browser Afforded CDA Immunity for Dark Web Transactions](https://www.govinfo.gov/content/pkg/USCOURTS-utd-2_18-cv-00712/pdf/USCOURTS-utd-2_18-cv-00712-0.pdf) - Court document about the death of a minor through purchasing of narcotics on Tor.
 - [Tor Hidden Services and Deanonyminization](https://www.youtube.com/watch?v=HQXRURfrf8w) - Talk about how Tor and its services can be exploited to expose a user's information as well as how to prevent attacks.
 - [Tor Overview](https://www.privacyguides.org/en/advanced/tor-overview/) - Overview of Tor by Privacyguides.
