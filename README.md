@@ -136,7 +136,6 @@
 - [Russia Passes Bill Banning Tor](https://www.themoscowtimes.com/2021/12/08/russia-blocks-tor-anonymity-service-a75760) - Article about Russia banning VPNs and Tor.
 - [Techinal and Legal overview of Tor](https://ccdcoe.org/uploads/2018/10/TOR_Anonymity_Network.pdf) - Overview of Tor presented from the technical perspective and also several legal issues related to its use are analysed.
 - [Tor after the Snowden revelations](https://blog.torproject.org/tor-in-2023/) - About the Snowden revelations and what Tor will do in 2024. How People Got Caught.
-- [Tor Blog](https://blog.torproject.org/) - Important information about Tor and censorship published by Tor.
 - [Tor Browser Afforded CDA Immunity for Dark Web Transactions](https://www.govinfo.gov/content/pkg/USCOURTS-utd-2_18-cv-00712/pdf/USCOURTS-utd-2_18-cv-00712-0.pdf) - Court document about the death of a minor through purchasing of narcotics on Tor.
 - [Tor Hidden Services and Deanonyminization](https://www.youtube.com/watch?v=HQXRURfrf8w) - Talk about how Tor and its services can be exploited to expose a user's information as well as how to prevent attacks.
 - [Tor Overview](https://www.privacyguides.org/en/advanced/tor-overview/) - Overview of Tor by Privacyguides.
