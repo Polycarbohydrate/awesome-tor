@@ -7,7 +7,7 @@
   - [Tails](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tails)
   - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor--tor-browser)
 - [Bridges](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Bridges)
-- [Manual](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Manual)
+- [Official Manual](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#official-manual)
 - [Public reception, Impact, and Legislation](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#public-reception-impact-news-and-legislation)
 ## Applications
 ### Tails
@@ -104,7 +104,7 @@
 - [ScrambleSuit](https://github.com/NullHypothesis/scramblesuit) - Outdated and deprecated bridge type. A pluggable transport protocol for obfsproxy. It is written in pure Python.
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
 - [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - WebTunnel is a censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
-## Manual
+## Official Manual
 - [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
 - [Anti-fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) - How Tor Browser mitigates browser fingerprinting.
 - [Bridges](https://tb-manual.torproject.org/bridges/) - Most Pluggable Transports, such as obfs4, rely on the use of "bridge" relays.
