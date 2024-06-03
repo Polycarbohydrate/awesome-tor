@@ -2,13 +2,33 @@
 # ![awesome-tor-logo](https://github.com/Polycarbohydrate/awesome-tor/assets/169401794/d8c7415e-1874-49f5-a1c6-04b3a8aa689f)
 > Awesome Tor is a curated list of resources, tools, and applications related to the [Tor network](https://www.torproject.org/).
 ## Contents
+- [Official Manual](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#official-manual)
 - [Applications](https://github.com/Polycarbohydrate/awesome-tor#Applications)
   - [Other applications](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#other-applications)
   - [Tails](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tails)
   - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor--tor-browser)
 - [Bridges](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Bridges)
-- [Official Manual](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#official-manual)
 - [Public reception, Impact, and Legislation](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#public-reception-impact-news-and-legislation)
+## Official Manual
+- [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
+- [Anti-fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) - How Tor Browser mitigates browser fingerprinting.
+- [Bridges](https://tb-manual.torproject.org/bridges/) - Most Pluggable Transports, such as obfs4, rely on the use of "bridge" relays.
+- [Circumvention](https://tb-manual.torproject.org/circumvention/) - What to do if the Tor network is blocked.
+- [Downloading](https://tb-manual.torproject.org/downloading/) - How to download Tor Browser.
+- [Installation](https://tb-manual.torproject.org/installation/) - Installing Tor Browser.
+- [Known Issues](https://tb-manual.torproject.org/known-issues/) - Issues with Tor.
+- [Make Tor Browser Portable](https://tb-manual.torproject.org/make-tor-portable/) - How to install Tor Browser onto removable media.
+- [Managing Identities](https://tb-manual.torproject.org/managing-identities/) - Learn how to control personally-identifying information in Tor Browser.
+- [Mobile Tor](https://tb-manual.torproject.org/mobile-tor/) - Learn about Tor for mobile devices.
+- [Onion Services](https://tb-manual.torproject.org/onion-services/) - Services that are only accessible using Tor.
+- [Plugins, add-ons, and JavaScript](https://tb-manual.torproject.org/plugins/) - How Tor Browser handles add-ons, plugins and JavaScript.
+- [Running Tor Browser](https://tb-manual.torproject.org/running-tor-browser/) - Learn how to use Tor Browser for the first time.
+- [Secure Connections](https://tb-manual.torproject.org/secure-connections/) - Learn how to protect your data using Tor Browser and HTTPS.
+- [Security Settings](https://tb-manual.torproject.org/security-settings/) - Configuring Tor Browser for security and usability.
+- [Support](https://tb-manual.torproject.org/support/) - How to get help, report a bug or give feedback.
+- [Troubleshooting](https://tb-manual.torproject.org/troubleshooting/) - What to do if Tor Browser doesn't work properly.
+- [Updating](https://tb-manual.torproject.org/updating/) - How to update Tor Browser.
+- [Uninstalling](https://tb-manual.torproject.org/uninstalling/) - How to remove Tor Browser from your system.
 ## Applications
 ### Tails
 *A portalble, Debian-based OS that runs from the RAM, leaving no trace. Uses Tor browser as the primary browser.*
@@ -104,26 +124,6 @@
 - [ScrambleSuit](https://github.com/NullHypothesis/scramblesuit) - Outdated and deprecated bridge type. A pluggable transport protocol for obfsproxy. It is written in pure Python.
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
 - [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - WebTunnel is a censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
-## Official Manual
-- [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
-- [Anti-fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) - How Tor Browser mitigates browser fingerprinting.
-- [Bridges](https://tb-manual.torproject.org/bridges/) - Most Pluggable Transports, such as obfs4, rely on the use of "bridge" relays.
-- [Circumvention](https://tb-manual.torproject.org/circumvention/) - What to do if the Tor network is blocked.
-- [Downloading](https://tb-manual.torproject.org/downloading/) - How to download Tor Browser.
-- [Installation](https://tb-manual.torproject.org/installation/) - Installing Tor Browser.
-- [Known Issues](https://tb-manual.torproject.org/known-issues/) - Issues with Tor.
-- [Make Tor Browser Portable](https://tb-manual.torproject.org/make-tor-portable/) - How to install Tor Browser onto removable media.
-- [Managing Identities](https://tb-manual.torproject.org/managing-identities/) - Learn how to control personally-identifying information in Tor Browser.
-- [Mobile Tor](https://tb-manual.torproject.org/mobile-tor/) - Learn about Tor for mobile devices.
-- [Onion Services](https://tb-manual.torproject.org/onion-services/) - Services that are only accessible using Tor.
-- [Plugins, add-ons, and JavaScript](https://tb-manual.torproject.org/plugins/) - How Tor Browser handles add-ons, plugins and JavaScript.
-- [Running Tor Browser](https://tb-manual.torproject.org/running-tor-browser/) - Learn how to use Tor Browser for the first time.
-- [Secure Connections](https://tb-manual.torproject.org/secure-connections/) - Learn how to protect your data using Tor Browser and HTTPS.
-- [Security Settings](https://tb-manual.torproject.org/security-settings/) - Configuring Tor Browser for security and usability.
-- [Support](https://tb-manual.torproject.org/support/) - How to get help, report a bug or give feedback.
-- [Troubleshooting](https://tb-manual.torproject.org/troubleshooting/) - What to do if Tor Browser doesn't work properly.
-- [Updating](https://tb-manual.torproject.org/updating/) - How to update Tor Browser.
-- [Uninstalling](https://tb-manual.torproject.org/uninstalling/) - How to remove Tor Browser from your system.
 ## Public reception, Impact, News, and Legislation
 - [Anarcho-Tech NYC Wiki](https://github.com/AnarchoTechNYC/meta/wiki) - Wiki that explains how to stay private and anonymous online.
 - [Anonymity Bibliography](https://www.freehaven.net/anonbib/) - Selected papers in anonymity from 1977 - 2020.
