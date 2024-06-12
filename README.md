@@ -9,7 +9,7 @@
   - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor--tor-browser)
 - [Bridges](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Bridges)
 - [Public reception, Impact, and Legislation](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#public-reception-impact-news-and-legislation)
-- [Whistleblowing]((https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Whistleblowing)
+- [Whistleblowing](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Whistleblowing)
 ## Official Manual
 - [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
 - [Anti-fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) - How Tor Browser mitigates browser fingerprinting.
