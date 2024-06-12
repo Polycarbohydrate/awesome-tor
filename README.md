@@ -8,6 +8,7 @@
   - [Tails](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tails)
   - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor--tor-browser)
 - [Bridges](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Bridges)
+- [Bypass Censorship](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Bypass-Censorship)
 - [Public reception, Impact, and Legislation](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#public-reception-impact-news-and-legislation)
 - [Whistleblowing](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Whistleblowing)
 ## Official Manual
@@ -125,6 +126,11 @@
 - [ScrambleSuit](https://github.com/NullHypothesis/scramblesuit) - Outdated and deprecated bridge type. A pluggable transport protocol for obfsproxy. It is written in pure Python.
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
 - [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - WebTunnel is a censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
+## Bypass Censorhip
+- [Google Fi Wireless](https://fi.google.com/) - Great phone solution that allows calls, text messaging, and use of cellular data that bypasses China's Great Firewall.
+- [PrivadoVPN](https://privadovpn.com/) - VPN that is batsed in Switerland and follows swiss privacy laws. Bypasses even in China.
+- [ProtonVPN](https://protonvpn.com/) - VPN that allows for circumvention of censorship even in China. Free plan bypasses along with multiple servers and protocols. No logs policy.
+- [Private Bridges](https://bridges.torproject.org/) - Go to `I need an alternative way of getting bridges!` section. Follow the instructions.
 ## Public reception, Impact, News, and Legislation
 - [Anarcho-Tech NYC Wiki](https://github.com/AnarchoTechNYC/meta/wiki) - Wiki that explains how to stay private and anonymous online.
 - [Anonymity Bibliography](https://www.freehaven.net/anonbib/) - Selected papers in anonymity from 1977 - 2020.
@@ -145,7 +151,6 @@
 ## Whistleblowing
 - [GlobaLeaks](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [SecureDrop](https://github.com/freedomofpress/securedrop) - SecureDrop is an open source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
-
 ## Footnotes
 This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
 
