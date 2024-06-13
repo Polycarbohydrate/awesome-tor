@@ -131,6 +131,7 @@
 - [PrivadoVPN](https://privadovpn.com/) - VPN that is batsed in Switerland and follows swiss privacy laws. Bypasses even in China.
 - [ProtonVPN](https://protonvpn.com/) - VPN that allows for circumvention of censorship even in China. Free plan bypasses along with multiple servers and protocols. No logs policy.
 - [Private Bridges](https://bridges.torproject.org/) - Go to `I need an alternative way of getting bridges!` section. Follow the instructions.
+- [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) - Browser extension for Chromium and FireFox that helps to bypass censorship in Russia.
 ## Public reception, Impact, News, and Legislation
 - [Anarcho-Tech NYC Wiki](https://github.com/AnarchoTechNYC/meta/wiki) - Wiki that explains how to stay private and anonymous online.
 - [Anonymity Bibliography](https://www.freehaven.net/anonbib/) - Selected papers in anonymity from 1977 - 2020.
