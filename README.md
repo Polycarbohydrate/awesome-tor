@@ -127,12 +127,19 @@
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
 - [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - WebTunnel is a censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
 ## Bypass Censorship
+- [Firefly](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumventing the Great Firewall.
+- [FWlite](https://github.com/v3aqb/fwlite) - A anti-censorship HTTP proxy with builtin shadowsocks support.
 - [Google Fi Wireless](https://fi.google.com/) - Great phone solution that allows calls, text messaging, and use of cellular data that bypasses China's Great Firewall.
+- [Lantern](https://github.com/getlantern/lantern) - Censorship circumvention tool available for free download on any operating system.
+- [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Allows users in censored areas connect to Telegram.
+- [NaïveProxy](https://github.com/klzgrad/naiveproxy) - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistence and low detectablility.
 - [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) - Host your own copy of nodeunblocker.com using NodeJS to bypass censorship on the internet.
 - [PrivadoVPN](https://privadovpn.com/) - VPN that is batsed in Switerland and follows swiss privacy laws. Bypasses even in China.
 - [ProtonVPN](https://protonvpn.com/) - VPN that allows for circumvention of censorship even in China. Free plan bypasses along with multiple servers and protocols. No logs policy.
 - [Private Bridges](https://bridges.torproject.org/) - Go to `I need an alternative way of getting bridges!` section. Follow the instructions.
 - [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) - Browser extension for Chromium and FireFox that helps to bypass censorship in Russia.
+- [StegoTorus](https://github.com/SRI-CSL/stegotorus) - A Camouflage Proxy for the Tor Anonymity System.
+- [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 ## Public reception, Impact, News, and Legislation
 - [Anarcho-Tech NYC Wiki](https://github.com/AnarchoTechNYC/meta/wiki) - Wiki that explains how to stay private and anonymous online.
 - [Anonymity Bibliography](https://www.freehaven.net/anonbib/) - Selected papers in anonymity from 1977 - 2020.
