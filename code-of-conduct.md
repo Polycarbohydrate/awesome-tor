@@ -59,7 +59,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at 
+reported to the community leaders responsible for enforcement at `awesome(dot)tor(dot)github(symbol goes here)gmail(dot)com
 
 All complaints will be reviewed and investigated promptly and fairly.
 
