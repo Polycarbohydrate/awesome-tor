@@ -4,15 +4,15 @@
 
 > This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
 ## Contents
-- [Official Manual](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#official-manual)
-- [Applications](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#Applications)
-  - [Other applications](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#other-applications)
-  - [Tails](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#tails)
-  - [Tor](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#tor--tor-browser)
-- [Bridges](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#Bridges)
-- [Bypass Censorship](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#Bypass-Censorship)
-- [Public reception, Impact, and Legislation](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#public-reception-impact-news-and-legislation)
-- [Whistleblowing](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#Whistleblowing)
+- [Official Manual](#official-manual)
+- [Applications](#Applications)
+  - [Other applications](#other-applications)
+  - [Tails](#tails)
+  - [Tor](#tor--tor-browser)
+- [Bridges](#Bridges)
+- [Bypass Censorship](#Bypass-Censorship)
+- [Public reception, Impact, and Legislation](#public-reception-impact-news-and-legislation)
+- [Whistleblowing](#Whistleblowing)
 ## Official Manual
 - [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
 - [Anti-fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) - How Tor Browser mitigates browser fingerprinting.
