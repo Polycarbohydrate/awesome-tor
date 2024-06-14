@@ -8,5 +8,4 @@ This project is released with a [Contributor Code of Conduct](https://github.com
 - The addition must be useful.
 - Capitalize proper nouns as well. `(Don't do: python ❌| Do: Python ✅| Don't do: Gitlab ❌| Do: GitLab ✅)`
 - The pull request should be in the format of `Add *Name of thing* (Add Tor Browser ✅).`
-- Don't be stupid and please use a brain when contributing.
 - If you followed all the above steps, your addition would be awesome!
