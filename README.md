@@ -5,7 +5,7 @@
 > This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
 ## Contents
 - [Official Manual](#official-manual)
-- [Applications](#Applications)
+- [Applications](#applications)
   - [Other applications](#other-applications)
   - [Tails](#tails)
   - [Tor](#tor--tor-browser)
