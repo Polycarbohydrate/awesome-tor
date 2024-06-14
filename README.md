@@ -133,7 +133,7 @@
 - [Lantern](https://github.com/getlantern/lantern) - Censorship circumvention tool available for free download on any operating system.
 - [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Allows users in censored areas connect to Telegram.
 - [NaïveProxy](https://github.com/klzgrad/naiveproxy) - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistence and low detectablility.
-- [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) - Host your own copy of nodeunblocker.com using NodeJS to bypass censorship on the internet.
+- [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) - Host your own copy of nodeunblocker.com using Node.js to bypass censorship on the internet.
 - [PrivadoVPN](https://privadovpn.com/) - VPN that is batsed in Switerland and follows swiss privacy laws. Bypasses even in China.
 - [ProtonVPN](https://protonvpn.com/) - VPN that allows for circumvention of censorship even in China. Free plan bypasses along with multiple servers and protocols. No logs policy.
 - [Private Bridges](https://bridges.torproject.org/) - Go to `I need an alternative way of getting bridges!` section. Follow the instructions.
