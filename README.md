@@ -1,6 +1,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # ![awesome-tor-logo](https://github.com/Polycarbohydrate/awesome-tor/assets/169401794/d8c7415e-1874-49f5-a1c6-04b3a8aa689f)
 > Awesome Tor is a curated list of resources, tools, and applications related to the [Tor network](https://www.torproject.org/).
+> This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
 ## Contents
 - [Official Manual](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#official-manual)
 - [Applications](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#Applications)
@@ -168,6 +169,3 @@
 - [GlobaLeaks](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [SecureDrop](https://github.com/freedomofpress/securedrop) - SecureDrop is an open source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
 - [WikiLeaks](https://wikileaks.org/) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption.
-## Footnotes
-This product is produced independently from the Tor® anonymity software and carries no guarantee from The Tor Project about quality, suitability or anything else.
-
