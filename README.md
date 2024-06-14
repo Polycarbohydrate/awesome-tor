@@ -3,14 +3,14 @@
 > Awesome Tor is a curated list of resources, tools, and applications related to the [Tor network](https://www.torproject.org/).
 ## Contents
 - [Official Manual](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#official-manual)
-- [Applications](https://github.com/Polycarbohydrate/awesome-tor#Applications)
-  - [Other applications](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#other-applications)
-  - [Tails](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tails)
-  - [Tor](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#tor--tor-browser)
-- [Bridges](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Bridges)
-- [Bypass Censorship](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Bypass-Censorship)
-- [Public reception, Impact, and Legislation](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#public-reception-impact-news-and-legislation)
-- [Whistleblowing](https://github.com/Polycarbohydrate/awesome-tor?tab=readme-ov-file#Whistleblowing)
+- [Applications](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#Applications)
+  - [Other applications](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#other-applications)
+  - [Tails](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#tails)
+  - [Tor](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#tor--tor-browser)
+- [Bridges](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#Bridges)
+- [Bypass Censorship](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#Bypass-Censorship)
+- [Public reception, Impact, and Legislation](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#public-reception-impact-news-and-legislation)
+- [Whistleblowing](https://github.com/Polycarbohydrate/awesome-tor/blob/main/#Whistleblowing)
 ## Official Manual
 - [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
 - [Anti-fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) - How Tor Browser mitigates browser fingerprinting.
