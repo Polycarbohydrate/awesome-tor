@@ -12,9 +12,9 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
   - [Tor / Tor Browser](#tor--tor-browser)
   - [Other applications](#other-applications)
 - [Bridges](#bridges)
-- [Bypass Censorship](#Bypass-Censorship)
+- [Bypass Censorship](#bypass-censorship)
 - [Public reception, Impact, and Legislation](#public-reception-impact-news-and-legislation)
-- [Whistleblowing](#Whistleblowing)
+- [Whistleblowing](#whistleblowing)
 ## Official Manual
 - [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
 - [Anti-fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) - How Tor Browser mitigates browser fingerprinting.
