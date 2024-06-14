@@ -6,9 +6,9 @@
 ## Contents
 - [Official Manual](#official-manual)
 - [Applications](#applications)
-  - [Other applications](#other-applications)
   - [Tails](#tails)
   - [Tor](#tor--tor-browser)
+  - [Other applications](#other-applications)
 - [Bridges](#Bridges)
 - [Bypass Censorship](#Bypass-Censorship)
 - [Public reception, Impact, and Legislation](#public-reception-impact-news-and-legislation)
