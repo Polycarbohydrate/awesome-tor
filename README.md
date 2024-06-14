@@ -7,7 +7,7 @@
 - [Official Manual](#official-manual)
 - [Applications](#applications)
   - [Tails](#tails)
-  - [Tor](#tor--tor-browser)
+  - [Tor / Tor Browser](#tor--tor-browser)
   - [Other applications](#other-applications)
 - [Bridges](#Bridges)
 - [Bypass Censorship](#Bypass-Censorship)
