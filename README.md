@@ -11,7 +11,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
   - [Tails](#tails)
   - [Tor / Tor Browser](#tor--tor-browser)
   - [Other applications](#other-applications)
-- [Bridges](#Bridges)
+- [Bridges](#bridges)
 - [Bypass Censorship](#Bypass-Censorship)
 - [Public reception, Impact, and Legislation](#public-reception-impact-news-and-legislation)
 - [Whistleblowing](#Whistleblowing)
