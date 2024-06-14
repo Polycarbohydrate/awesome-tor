@@ -13,7 +13,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
   - [Other applications](#other-applications)
 - [Bridges](#bridges)
 - [Bypass Censorship](#bypass-censorship)
-- [Public reception, Impact, and Legislation](#public-reception-impact-news-and-legislation)
+- [Public reception, Impact, News, and Legislation](#public-reception-impact-news-and-legislation)
 - [Whistleblowing](#whistleblowing)
 ## Official Manual
 - [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
