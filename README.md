@@ -24,14 +24,14 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Installation](https://tb-manual.torproject.org/installation/) - Installing Tor Browser.
 - [Known Issues](https://tb-manual.torproject.org/known-issues/) - Issues with Tor.
 - [Make Tor Browser Portable](https://tb-manual.torproject.org/make-tor-portable/) - How to install Tor Browser onto removable media.
-- [Managing Identities](https://tb-manual.torproject.org/managing-identities/) - Learn how to control personally-identifying information in Tor Browser.
+- [Managing Identities](https://tb-manual.torproject.org/managing-identities/) - Learn how to control personally identifying information in Tor Browser.
 - [Mobile Tor](https://tb-manual.torproject.org/mobile-tor/) - Learn about Tor for mobile devices.
 - [Onion Services](https://tb-manual.torproject.org/onion-services/) - Services that are only accessible using Tor.
-- [Plugins, add-ons, and JavaScript](https://tb-manual.torproject.org/plugins/) - How Tor Browser handles add-ons, plugins and JavaScript.
+- [Plugins, add-ons, and JavaScript](https://tb-manual.torproject.org/plugins/) - How Tor Browser handles add-ons, plugins, and JavaScript.
 - [Running Tor Browser](https://tb-manual.torproject.org/running-tor-browser/) - Learn how to use Tor Browser for the first time.
 - [Secure Connections](https://tb-manual.torproject.org/secure-connections/) - Learn how to protect your data using Tor Browser and HTTPS.
 - [Security Settings](https://tb-manual.torproject.org/security-settings/) - Configuring Tor Browser for security and usability.
-- [Support](https://tb-manual.torproject.org/support/) - How to get help, report a bug or give feedback.
+- [Support](https://tb-manual.torproject.org/support/) - How to get help, report a bug, or give feedback.
 - [Troubleshooting](https://tb-manual.torproject.org/troubleshooting/) - What to do if Tor Browser doesn't work properly.
 - [Updating](https://tb-manual.torproject.org/updating/) - How to update Tor Browser.
 - [Uninstalling](https://tb-manual.torproject.org/uninstalling/) - How to remove Tor Browser from your system.
@@ -122,8 +122,8 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [BridgeDB](https://pythonhosted.org/bridgedb/) - BridgeDB is a collection of backend servers used to distribute Tor Bridges.
 - [Conjure](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/conjure) - Conjure is an anti-censorship tool in the refraction networking (a.k.a. decoy routing) lineage of circumvention systems.
 - [Flash Proxies](https://crypto.stanford.edu/flashproxy/) - Outdated and deprecated bridge type. It is a miniature proxy that runs in a web browser.
-- [fteproxy](https://fteproxy.org/) - Outdated and deprecated bridge type. Tor traffic resemble plain HTTP. The name stands for "Format-Transforming Encryption."
-- [meek](https://support.torproject.org/glossary/meek/) - These pluggable transports all make it look like you are browsing a major web site instead of using Tor.
+- [fteproxy](https://fteproxy.org/) - Outdated and deprecated bridge type. Tor traffic resembles plain HTTP. The name stands for "Format-Transforming Encryption."
+- [meek](https://support.torproject.org/glossary/meek/) - These pluggable transports make it look like you are browsing a major website instead of using Tor.
 - [obsf2](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/trac/-/issues/10314) - Outdated and deprecated bridge type. Predecessor of obsf3.
 - [obsf3](https://support.torproject.org/glossary/obfs3/) - Outdated and deprecated bridge type. Predecessor of obsf4.
 - [obsf4](https://support.torproject.org/glossary/obfs4/) - A pluggable transport that makes Tor traffic look random and also prevents censors from finding bridges by Internet scanning.
@@ -131,17 +131,17 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
 - [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - WebTunnel is a censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
 ## Bypass Censorship
-- [Firefly](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumventing the Great Firewall.
-- [FWlite](https://github.com/v3aqb/fwlite) - A anti-censorship HTTP proxy with builtin shadowsocks support.
+- [Firefly](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumvent the Great Firewall.
+- [FWlite](https://github.com/v3aqb/fwlite) - An anti-censorship HTTP proxy with built-in shadowsocks support.
 - [Google Fi Wireless](https://fi.google.com/) - Great phone solution that allows calls, text messaging, and use of cellular data that bypasses China's Great Firewall.
 - [Lantern](https://github.com/getlantern/lantern) - Censorship circumvention tool available for free download on any operating system.
-- [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Allows users in censored areas connect to Telegram.
-- [NaïveProxy](https://github.com/klzgrad/naiveproxy) - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistence and low detectablility.
-- [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) - Host your own copy of nodeunblocker.com using Node.js to bypass censorship on the internet.
+- [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Allows users in censored areas to connect to Telegram.
+- [NaïveProxy](https://github.com/klzgrad/naiveproxy) - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
+- [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) - Host your copy of nodeunblocker.com using Node.js to bypass censorship on the internet.
 - [PrivadoVPN](https://privadovpn.com/) - VPN that is based in Switzerland and follows Swiss privacy laws. Bypasses even in China.
 - [ProtonVPN](https://protonvpn.com/) - VPN that allows for circumvention of censorship even in China. Free plan bypasses along with multiple servers and protocols. No logs policy.
 - [Private Bridges](https://bridges.torproject.org/) - Go to `I need an alternative way of getting bridges!` section. Follow the instructions.
-- [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) - Browser extension for Chromium and FireFox that helps to bypass censorship in Russia.
+- [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) - A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.
 - [StegoTorus](https://github.com/SRI-CSL/stegotorus) - A Camouflage Proxy for the Tor Anonymity System.
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 ## Public reception, Impact, News, and Legislation
@@ -159,16 +159,16 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Scaling Tor hidden services](https://www.benthamsgaze.org/2015/11/17/scaling-tor-hidden-services/) - How to scale hidden services.
 - [ScrambleSuit: A Polymorph Network Protocol to Circumvent Censorship](http://arxiv.org/pdf/1305.3199) - How ScrambleSuit worked.
 - [Snowden Revelations](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) - The Snowden Revelations explained.
-- [State of the Onion - 2023](https://blog.torproject.org/event/state-of-the-onion-2023/) - Tor Project's annual virtual event where we share updates from teams and community, highlighting their work and the impact it has made across the globe during the year.
+- [State of the Onion - 2023](https://blog.torproject.org/event/state-of-the-onion-2023/) - Tor Project's annual virtual event where we share updates from teams and the community, highlighting their work and the impact it has made across the globe during the year.
 - [StegoTorus: A Camouflage Proxy for the Tor Anonymity System](https://www.freehaven.net/anonbib/cache/ccs2012-stegotorus.pdf) - A paper on how StegoTorus works.
-- [Techinal and Legal overview of Tor](https://ccdcoe.org/uploads/2018/10/TOR_Anonymity_Network.pdf) - Overview of Tor presented from the technical perspective and also several legal issues related to its use are analysed.
+- [Technical and Legal Overview of Tor](https://ccdcoe.org/uploads/2018/10/TOR_Anonymity_Network.pdf) - Overview of Tor is presented from the technical perspective and also several legal issues related to its use are analyzed.
 - [Tor after the Snowden revelations](https://blog.torproject.org/tor-in-2023/) - About the Snowden revelations and what Tor will do in 2024. 
-- [Tor Browser Afforded CDA Immunity for Dark Web Transactions](https://www.govinfo.gov/content/pkg/USCOURTS-utd-2_18-cv-00712/pdf/USCOURTS-utd-2_18-cv-00712-0.pdf) - Court document about the death of a minor through purchasing of narcotics on Tor.
+- [Tor Browser Afforded CDA Immunity for Dark Web Transactions](https://www.govinfo.gov/content/pkg/USCOURTS-utd-2_18-cv-00712/pdf/USCOURTS-utd-2_18-cv-00712-0.pdf) - Court document about the death of a minor through purchasing narcotics on Tor.
 - [Tor Hidden Services and Deanonyminization](https://www.youtube.com/watch?v=HQXRURfrf8w) - Talk about how Tor and its services can be exploited to expose a user's information as well as how to prevent attacks.
 - [Tor Overview](https://www.privacyguides.org/en/advanced/tor-overview/) - Overview of Tor by Privacyguides.
 - [Understanding The Onion Router in 2024](https://www.privacyjournal.net/privacy/tor-network/) - Explains what Tor is; update for 2024.
-- [What is Tor?](https://www.amnesty.org/en/latest/campaigns/2024/02/what-is-tor-and-how-does-it-advance-human-rights/) - Gives a very good explaination for Tor, Onion Services, and how it promotes human rights.
+- [What is Tor?](https://www.amnesty.org/en/latest/campaigns/2024/02/what-is-tor-and-how-does-it-advance-human-rights/) - Gives a very good explanation for Tor, Onion Services, and how it promotes human rights.
 ## Whistleblowing
 - [GlobaLeaks](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
-- [SecureDrop](https://github.com/freedomofpress/securedrop) - SecureDrop is an open source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
-- [WikiLeaks](https://wikileaks.org/) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption.
+- [SecureDrop](https://github.com/freedomofpress/securedrop) - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
+- [WikiLeaks](https://wikileaks.org/) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying, and corruption.
