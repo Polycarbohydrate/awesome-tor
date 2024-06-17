@@ -37,7 +37,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Uninstalling](https://tb-manual.torproject.org/uninstalling/) - How to remove Tor Browser from your system.
 ## Applications
 ### Tails
-*A portalble, Debian-based OS that runs from the RAM, leaving no trace. Uses Tor browser as the primary browser.*
+*A portable, Debian-based OS that runs from the RAM, leaving no trace. Uses Tor Browser as the primary browser.*
 - [Contribute](https://tails.net/contribute/index.en.html)
 - [Documentation](https://tails.net/doc/index.en.html)
 - [Download](https://tails.net/install/index.en.html)
@@ -60,10 +60,10 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [ansible-relayor](https://github.com/nusenu/ansible-relayor) - This is an ansible role for tor relay operators.
 - [bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers.
 - [Briar](https://briarproject.org/) - Peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi or Tor.
-- [Bulk Tor Exit Exporter](https://check.torproject.org/api/bulk) - Identify Tor Exit Nodes by showing exit node IPv4 and fingerprint information.
+- [Bulk Tor Exit Exporter](https://check.torproject.org/api/bulk) - Identify Tor exit nodes by showing exit node IPv4 and fingerprint information.
 - [Chutney](https://gitlab.torproject.org/tpo/core/chutney/) - Configures a Tor network, launches and monitors it, and then run tests on it.
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over TOR stress test tool. 
+- [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool. 
 - [DocTor](https://gitlab.torproject.org/tpo/network-health/doctor/) - DocTor is a notification service that monitors newly published descriptor information for issues.
 - [eotk](https://github.com/alecmuffett/eotk) - Tool for deploying HTTP/Onion sites to provide official, onion-networking for popular websites.
 - [exitmap](https://www.cs.kau.se/philwint/spoiled_onions/) - Scanner for Tor to detect bad exits (spoiled onions).
@@ -138,7 +138,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Allows users in censored areas connect to Telegram.
 - [NaïveProxy](https://github.com/klzgrad/naiveproxy) - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistence and low detectablility.
 - [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) - Host your own copy of nodeunblocker.com using Node.js to bypass censorship on the internet.
-- [PrivadoVPN](https://privadovpn.com/) - VPN that is batsed in Switerland and follows swiss privacy laws. Bypasses even in China.
+- [PrivadoVPN](https://privadovpn.com/) - VPN that is based in Switzerland and follows Swiss privacy laws. Bypasses even in China.
 - [ProtonVPN](https://protonvpn.com/) - VPN that allows for circumvention of censorship even in China. Free plan bypasses along with multiple servers and protocols. No logs policy.
 - [Private Bridges](https://bridges.torproject.org/) - Go to `I need an alternative way of getting bridges!` section. Follow the instructions.
 - [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) - Browser extension for Chromium and FireFox that helps to bypass censorship in Russia.
@@ -162,7 +162,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [State of the Onion - 2023](https://blog.torproject.org/event/state-of-the-onion-2023/) - Tor Project's annual virtual event where we share updates from teams and community, highlighting their work and the impact it has made across the globe during the year.
 - [StegoTorus: A Camouflage Proxy for the Tor Anonymity System](https://www.freehaven.net/anonbib/cache/ccs2012-stegotorus.pdf) - A paper on how StegoTorus works.
 - [Techinal and Legal overview of Tor](https://ccdcoe.org/uploads/2018/10/TOR_Anonymity_Network.pdf) - Overview of Tor presented from the technical perspective and also several legal issues related to its use are analysed.
-- [Tor after the Snowden revelations](https://blog.torproject.org/tor-in-2023/) - About the Snowden revelations and what Tor will do in 2024. How People Got Caught.
+- [Tor after the Snowden revelations](https://blog.torproject.org/tor-in-2023/) - About the Snowden revelations and what Tor will do in 2024. 
 - [Tor Browser Afforded CDA Immunity for Dark Web Transactions](https://www.govinfo.gov/content/pkg/USCOURTS-utd-2_18-cv-00712/pdf/USCOURTS-utd-2_18-cv-00712-0.pdf) - Court document about the death of a minor through purchasing of narcotics on Tor.
 - [Tor Hidden Services and Deanonyminization](https://www.youtube.com/watch?v=HQXRURfrf8w) - Talk about how Tor and its services can be exploited to expose a user's information as well as how to prevent attacks.
 - [Tor Overview](https://www.privacyguides.org/en/advanced/tor-overview/) - Overview of Tor by Privacyguides.
