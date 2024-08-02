@@ -9,3 +9,4 @@ This project is released with a [Contributor Code of Conduct](https://github.com
 - Capitalize proper nouns as well. `(Don't do: python ❌| Do: Python ✅| Don't do: Gitlab ❌| Do: GitLab ✅)`
 - The pull request should be in the format of `Add *Name of thing* (Add Tor Browser ✅).`
 - If you followed all the above steps, your addition would be awesome!
+- Note: Even if this repository isn't that active, feel free to make a pull request. I will review every one in a timely manner.
