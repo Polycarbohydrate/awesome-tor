@@ -4,3 +4,5 @@
 ### Congragulations! You successfully set up a Snowflake bridge and are helping users circumvent censorship!
 
 <iframe src="https://snowflake.torproject.org/embed.html" width="320" height="240" frameborder="0" scrolling="no"></iframe>
+
+Keep this tab open in order to let the bridge work properly.
