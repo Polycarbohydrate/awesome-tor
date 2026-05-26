@@ -60,6 +60,15 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 - Core Tor / Little-t-tor
   - [Installation / Verify source code](https://support.torproject.org/little-t-tor/)
   - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
+### Privacy-Focused Services with Tor Mirrors
+*Established services maintaining public Tor onion v3 mirrors for privacy-conscious users.*
+- [DuckDuckGo](https://duckduckgo.com) ([onion](http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion)) - Privacy-respecting search engine.
+- [ProtonMail](https://proton.me/mail) ([onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion)) - End-to-end encrypted email service.
+- [The New York Times](https://www.nytimes.com) ([onion](https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion)) - News organization with onion mirror.
+- [BBC News](https://www.bbc.com/news) ([onion](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion)) - News organization with onion mirror.
+- [MoneroSwapper](https://moneroswapper.io) ([onion](http://llh6wrygjmhqsho6wturufyfkmy5haej74jatknm4qvr7wb4v5bg6zad.onion)) - No-KYC cryptocurrency swap aggregator with multilingual support.
+- [Riseup](https://riseup.net) ([onion](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion)) - Privacy-focused communication platform for activists.
+
 ### Other applications
 - [ansible-relayor](https://github.com/nusenu/ansible-relayor) - This is an ansible role for tor relay operators.
 - [bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers.
