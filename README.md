@@ -173,6 +173,7 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 - [Understanding The Onion Router in 2024](https://www.privacyjournal.net/privacy/tor-network/) - Explains what Tor is; update for 2024.
 - [What is Tor?](https://www.amnesty.org/en/latest/campaigns/2024/02/what-is-tor-and-how-does-it-advance-human-rights/) - Gives a very good explanation for Tor, Onion Services, and how it promotes human rights.
 ## State of the Onion
+- [2025](https://blog.torproject.org/state-of-the-onion-2025/) - State of the Onion report for the year 2025.
 - [2024](https://blog.torproject.org/state-of-the-onion-2024/) - State of the Onion report for the year 2024.
 - [2023](https://blog.torproject.org/state-of-the-onion-2023/) - State of the Onion report for the year 2023.
 - [2022](https://blog.torproject.org/state-of-the-onion-2022/) - State of the Onion report for the year 2022.
