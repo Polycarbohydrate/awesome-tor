@@ -182,5 +182,5 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 - [2019](https://www.youtube.com/watch?v=W0NR6M_08oM) - State of the Onion report for the year 2019.
 ## Whistleblowing
 - [GlobaLeaks](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
-- [SecureDrop](https://github.com/freedomofpress/securedrop) - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
+- [SecureDrop](https://securedrop.org/) - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
 - [WikiLeaks](https://wikileaks.org/) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying, and corruption.
