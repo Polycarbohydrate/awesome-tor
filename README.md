@@ -90,6 +90,7 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 - [Orfox](https://guardianproject.info/apps/info.guardianproject.orfox/) - Modified Tor browser for Android. Requires Orbot.
 - [php-torcontrol](https://github.com/dunglas/php-torcontrol) - TorControl is a PHP library to control a Tor server.
 - [Relay Search](https://metrics.torproject.org/rs.html) - Easy way to search for information about relays.
+- [Resilum Core](https://github.com/Resilum/resilum-core) - Multi-transport Reticulum node in Rust that carries mesh links over Tor, using either an external daemon or an embedded client.
 - [Ricochet Refresh](https://www.ricochetrefresh.net/) - Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients.
 - [rotating-proxy](https://github.com/mattes/rotating-proxy) - Rotating Tor proxy with Docker.
 - [sbws](https://gitlab.torproject.org/tpo/network-health/sbws) - A Tor bandwidth scanner that generates bandwidth files to be used by Directory Authorities.
