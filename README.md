@@ -89,13 +89,13 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Orfox](https://guardianproject.info/apps/info.guardianproject.orfox/) - Modified Tor browser for Android. Requires Orbot.
 - [php-torcontrol](https://github.com/dunglas/php-torcontrol) - TorControl is a PHP library to control a Tor server.
 - [Relay Search](https://metrics.torproject.org/rs.html) - Easy way to search for information about relays.
-- [Ricochet Refresh](https://www.ricochetrefresh.net/) - Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients.
+- [Ricochet Refresh](https://www.ricochetrefresh.net/) - A peer-to-peer messenger app that uses Tor to connect clients.
 - [rotating-proxy](https://github.com/mattes/rotating-proxy) - Rotating Tor proxy with Docker.
 - [sbws](https://gitlab.torproject.org/tpo/network-health/sbws) - A Tor bandwidth scanner that generates bandwidth files to be used by Directory Authorities.
-- [Stormy](https://github.com/glamrock/stormy) - Stormy is a wizard that helps people create Tor Onion Services with just a few clicks.
+- [Stormy](https://github.com/glamrock/stormy) - A wizard that helps people create Tor Onion Services with just a few clicks.
 - [setup-tor](https://github.com/tor-actions/setup-tor) - Set up your GitHub Actions workflow with a specific version of Tor.
-- [Stem](https://stem.torproject.org/) - Stem is a Python controller library for Tor.
-- [Shadow](https://shadow.github.io/) - Shadow is a discrete-event network simulator that runs the real Tor software as a plug-in.
+- [Stem](https://stem.torproject.org/) - A Python controller library for Tor.
+- [Shadow](https://shadow.github.io/) - A discrete-event network simulator that runs the real Tor software as a plug-in.
 - [Tallow](https://github.com/basil00/TorWall) - A program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
 - [tor_box](https://github.com/CMoncur/tor_box) - An all-inclusive Tor configuration for Raspberry Pi, that serves as a relay and personal Tor network.
 - [Tor_Onion_Proxy](https://github.com/thaliproject/Tor_Onion_Proxy_Library) - Provides a .JAR and an .AAR file for embedding Tor into a Java or Android Program.
@@ -104,14 +104,14 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor Onion Services on Kubernetes.
 - [tor-hidden-service](https://hub.docker.com/r/goldy/tor-hidden-service) - Docker container made for Onion Services in v2 or v3.
 - [tor-relay-bootstrap](https://github.com/coldhakca/tor-relay-bootstrap) - Script to bootstrap a Debian server to be a set-and-forget Tor relay.
-- [Tor.framework](https://github.com/iCepa/Tor.framework) - Tor.framework is the easiest way to embed Tor in your iOS application.
+- [Tor.framework](https://github.com/iCepa/Tor.framework) - Embed Tor in your iOS application.
 - [tor.rb](https://github.com/dryruby/tor.rb) - This is a Ruby library for interacting with the Tor anonymity network.
 - [Tor2web](https://github.com/tor2web/Tor2web) - HTTP proxy software that enables access to Tor Hidden Services through common web browsers.
 - [TorBot](https://github.com/DedSecInside/TorBot) - Onion site crawler for data collection.
 - [TorChat-Mac](https://github.com/javerous/TorChat-Mac) - macOS native TorChat client.
 - [TorChat](https://github.com/prof7bit/TorChat) - Decentralized anonymous instant messenger on top of Tor Hidden Services.
 - [TorCheck](https://check.torproject.org/) - Determines if a visitor is using Tor or not.
-- [torDDoS](https://github.com/r3nt0n/torDDoS) - TorDDos is a Python tool to automatize DDoS attacks on a website from the Tor network.
+- [torDDoS](https://github.com/r3nt0n/torDDoS) - A Python tool to automatize DDoS attacks on a website from the Tor network.
 - [toriptabkes2](https://github.com/ruped24/toriptables2) - An anonymizer that sets up iptables and Tor to route all traffic through the Tor network.
 - [torps](https://github.com/torps/torps) - The Tor Path Simulator (TorPS) is a tool for efficiently simulating path selection in Tor.
 - [Torsocks](https://gitlab.torproject.org/tpo/core/torsocks/) - Allows you to use most applications safely with Tor.
@@ -122,8 +122,8 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Whonix](https://www.whonix.org/) - OS designed for advanced security and privacy using the desktop-wide use of the Tor network.
 - [ZeroNet](https://zeronet.io/) - Free and uncensorable websites, using Bitcoin cryptography, the BitTorrent network, and Tor support.
 ## Bridges
-- [BridgeDB](https://pythonhosted.org/bridgedb/) - BridgeDB is a collection of backend servers used to distribute Tor Bridges.
-- [Conjure](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/conjure) - Conjure is an anti-censorship tool in the refraction networking (a.k.a. decoy routing) lineage of circumvention systems.
+- [BridgeDB](https://pythonhosted.org/bridgedb/) - A collection of backend servers used to distribute Tor Bridges.
+- [Conjure](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/conjure) - An anti-censorship tool in the refraction networking (a.k.a. decoy routing) lineage of circumvention systems.
 - [Flash Proxies](https://crypto.stanford.edu/flashproxy/) - Outdated and deprecated bridge type. It is a miniature proxy that runs in a web browser.
 - [fteproxy](https://fteproxy.org/) - Outdated and deprecated bridge type. Tor traffic resembles plain HTTP. The name stands for "Format-Transforming Encryption."
 - [meek](https://support.torproject.org/glossary/meek/) - These pluggable transports make it look like you are browsing a major website instead of using Tor.
@@ -132,14 +132,14 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [obsf4](https://support.torproject.org/glossary/obfs4/) - A pluggable transport that makes Tor traffic look random and also prevents censors from finding bridges by Internet scanning.
 - [ScrambleSuit](https://github.com/NullHypothesis/scramblesuit) - Outdated and deprecated bridge type. A pluggable transport protocol for obfsproxy. It is written in pure Python.
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
-- [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - WebTunnel is a censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
+- [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - A censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
 ## Bypass Censorship
 - [Firefly](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumvent the Great Firewall.
 - [FWlite](https://github.com/v3aqb/fwlite) - An anti-censorship HTTP proxy with built-in shadowsocks support.
 - [Google Fi Wireless](https://fi.google.com/) - Great phone solution that allows calls, text messaging, and use of cellular data that bypasses China's Great Firewall.
 - [Lantern](https://github.com/getlantern/lantern) - Censorship circumvention tool available for free download on any operating system.
 - [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Allows users in censored areas to connect to Telegram.
-- [NaïveProxy](https://github.com/klzgrad/naiveproxy) - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
+- [NaïveProxy](https://github.com/klzgrad/naiveproxy) - Uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
 - [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) - Host your copy of nodeunblocker.com using Node.js to bypass censorship on the internet.
 - [PrivadoVPN](https://privadovpn.com/) - VPN that is based in Switzerland and follows Swiss privacy laws. Bypasses even in China.
 - [ProtonVPN](https://protonvpn.com/) - VPN that allows for circumvention of censorship even in China. Free plan bypasses along with multiple servers and protocols. No logs policy.
@@ -153,7 +153,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Anarcho-Tech NYC Wiki](https://github.com/AnarchoTechNYC/meta/wiki) - Wiki that explains how to stay private and anonymous online.
 - [Anonymity Bibliography](https://www.freehaven.net/anonbib/) - Selected papers in anonymity from 1977 - 2020.
 - [Dropping Docs on Darknet](https://www.youtube.com/watch?v=eQ2OZKitRwc) - DEF CON 22 - Adrian Crenshaw- Dropping Docs on Darknets: How People Got Caught.
-- [How governments have tried to block Tor](https://www.youtube.com/watch?v=DX46Qv_b7F4) - How governments have tried to block Tor by 28c3.
+- [How governments have tried to block Tor](https://www.youtube.com/watch?v=DX46Qv_b7F4) - Video on how governments have tried to block Tor by 28c3.
 - [How the Great Firewall of China is blocked in China](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf) - Paper explaining how Tor is banned in China along with ways to circumvent it.
 - [Learning more about the GFW's active probing system](https://blog.torproject.org/learning-more-about-gfws-active-probing-system/) - Page about the GFW's censorship system and how it works.
 - [My Experience With the Great Firewall of China](http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/) - Blog on CFW of China by an InfoSec professional during one of their visits.
@@ -180,6 +180,6 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [2020](https://blog.torproject.org/state-of-the-onion-2020/) - State of the Onion report for the year 2020.
 - [2019](https://www.youtube.com/watch?v=W0NR6M_08oM) - State of the Onion report for the year 2019.
 ## Whistleblowing
-- [GlobaLeaks](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
-- [SecureDrop](https://securedrop.org/) - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
-- [WikiLeaks](https://wikileaks.org/) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying, and corruption.
+- [GlobaLeaks](https://www.globaleaks.org/) - A free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
+- [SecureDrop](https://securedrop.org/) - An open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
+- [WikiLeaks](https://wikileaks.org/) - Specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying, and corruption.
