@@ -60,7 +60,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
   - [Installation / Verify source code](https://support.torproject.org/little-t-tor/)
   - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
 ### Other applications
-- [ansible-relayor](https://github.com/nusenu/ansible-relayor) - This is an ansible role for tor relay operators.
+- [ansible-relayor](https://github.com/nusenu/ansible-relayor) - This is an Ansible role for tor relay operators.
 - [bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers.
 - [Briar](https://briarproject.org/) - Peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi, or Tor.
 - [Bulk Tor Exit Exporter](https://check.torproject.org/api/bulk) - Identify Tor exit nodes by showing exit node IPv4 and fingerprint information.
