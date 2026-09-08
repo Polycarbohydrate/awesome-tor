@@ -92,7 +92,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Ricochet Refresh](https://www.ricochetrefresh.net/) - Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients.
 - [rotating-proxy](https://github.com/mattes/rotating-proxy) - Rotating Tor proxy with Docker.
 - [sbws](https://gitlab.torproject.org/tpo/network-health/sbws) - A Tor bandwidth scanner that generates bandwidth files to be used by Directory Authorities.
-- [Stormy](https://github.com/glamrock/stormy) - Stormy is a wizard that helps people create Tor Onion Services with just a few clicks.
+- [Stormy](https://github.com/glamrock/stormy) - A wizard that helps people create Tor Onion Services with just a few clicks.
 - [setup-tor](https://github.com/tor-actions/setup-tor) - Set up your GitHub Actions workflow with a specific version of Tor.
 - [Stem](https://stem.torproject.org/) - Stem is a Python controller library for Tor.
 - [Shadow](https://shadow.github.io/) - Shadow is a discrete-event network simulator that runs the real Tor software as a plug-in.
