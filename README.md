@@ -61,6 +61,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
   - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
 ### Other applications
 - [ansible-relayor](https://github.com/nusenu/ansible-relayor) - This is an Ansible role for tor relay operators.
+- [Aster Mail](https://astermail.org/tor/) - End-to-end encrypted email service with official onion addresses for its website and web app.
 - [bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers.
 - [Briar](https://briarproject.org/) - Peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi, or Tor.
 - [Bulk Tor Exit Exporter](https://check.torproject.org/api/bulk) - Identify Tor exit nodes by showing exit node IPv4 and fingerprint information.
