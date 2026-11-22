@@ -9,6 +9,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 
 ## Contents
 - [Official Manual](#official-manual)
+- [Learning Resources](#learning-resources)
 - [Applications](#applications)
   - [Tails](#tails)
   - [Tor / Tor Browser](#tor--tor-browser)
@@ -38,6 +39,8 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Troubleshooting](https://tb-manual.torproject.org/troubleshooting/) - What to do if Tor Browser doesn't work properly.
 - [Updating](https://tb-manual.torproject.org/updating/) - How to update Tor Browser.
 - [Uninstalling](https://tb-manual.torproject.org/uninstalling/) - How to remove Tor Browser from your system.
+## Learning Resources
+- [Onion Routing Anatomy (Anatomia di Tor)](https://github.com/aleff-github/onion-routing-anatomy) - Free, open-source technical book on Tor internals with 20 reproducible laboratories on a private network. Developed with substantial AI contributions under human direction, without independent expert review. Includes AI-translated editions, including Russian, not independently checked by native speakers.
 ## Applications
 ### Tails
 *A portable, Debian-based OS that runs from the RAM, leaving no trace. Uses Tor Browser as the primary browser.*
