@@ -74,6 +74,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [haskell-tor](https://github.com/GaloisInc/haskell-tor) - A Haskell implementation of the Tor protocol.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Only allows the browser to connect using HTTPS, built-in Tor.
 - [kalitorify](https://github.com/brainfucksec/kalitorify) - Shell script to create a transparent proxy through Tor for Kali Linux OS.
+- [MyIPScan Tor Exit Node Check](https://myipscan.net/tools/tor-exit-node-check) - Check whether an IP address is in the Tor Project's published exit node list.
 - [Tor Metrics](https://metrics.torproject.org/) - Adjustable graphs to visualize the statistics of Tor.
 - [multitor](https://github.com/trimstray/multitor) - Create multiple Tor instances with load balancing.
 - [mini-tor](https://github.com/wbenny/mini-tor) - Smallest application size while accessing internet content and hidden service content.
