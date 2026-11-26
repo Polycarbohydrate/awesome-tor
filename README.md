@@ -97,6 +97,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [sbws](https://gitlab.torproject.org/tpo/network-health/sbws) - A Tor bandwidth scanner that generates bandwidth files to be used by Directory Authorities.
 - [Stormy](https://github.com/glamrock/stormy) - A wizard that helps people create Tor Onion Services with just a few clicks.
 - [setup-tor](https://github.com/tor-actions/setup-tor) - Set up your GitHub Actions workflow with a specific version of Tor.
+- [StegoTorus](https://github.com/SRI-CSL/stegotorus) - A Camouflage Proxy for the Tor Anonymity System.
 - [Stem](https://stem.torproject.org/) - A Python controller library for Tor.
 - [Shadow](https://shadow.github.io/) - A discrete-event network simulator that runs the real Tor software as a plug-in.
 - [Tallow](https://github.com/basil00/TorWall) - A program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
@@ -130,26 +131,13 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Flash Proxies](https://crypto.stanford.edu/flashproxy/) - Outdated and deprecated bridge type. It is a miniature proxy that runs in a web browser.
 - [fteproxy](https://fteproxy.org/) - Outdated and deprecated bridge type. Tor traffic resembles plain HTTP. The name stands for "Format-Transforming Encryption."
 - [meek](https://support.torproject.org/glossary/meek/) - These pluggable transports make it look like you are browsing a major website instead of using Tor.
+- [Private Bridges](https://bridges.torproject.org/) - Go to `I need an alternative way of getting bridges!` section. Follow the instructions.
 - [obsf2](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/trac/-/issues/10314) - Outdated and deprecated bridge type. Predecessor of obsf3.
 - [obsf3](https://support.torproject.org/glossary/obfs3/) - Outdated and deprecated bridge type. Predecessor of obsf4.
 - [obsf4](https://support.torproject.org/glossary/obfs4/) - A pluggable transport that makes Tor traffic look random and also prevents censors from finding bridges by Internet scanning.
 - [ScrambleSuit](https://github.com/NullHypothesis/scramblesuit) - Outdated and deprecated bridge type. A pluggable transport protocol for obfsproxy. It is written in pure Python.
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
 - [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - A censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
-## Bypass Censorship
-- [Firefly](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumvent the Great Firewall.
-- [FWlite](https://github.com/v3aqb/fwlite) - An anti-censorship HTTP proxy with built-in shadowsocks support.
-- [Google Fi Wireless](https://fi.google.com/) - Great phone solution that allows calls, text messaging, and use of cellular data that bypasses China's Great Firewall.
-- [Lantern](https://github.com/getlantern/lantern) - Censorship circumvention tool available for free download on any operating system.
-- [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Allows users in censored areas to connect to Telegram.
-- [NaïveProxy](https://github.com/klzgrad/naiveproxy) - Uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
-- [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) - Host your copy of nodeunblocker.com using Node.js to bypass censorship on the internet.
-- [PrivadoVPN](https://privadovpn.com/) - VPN that is based in Switzerland and follows Swiss privacy laws. Bypasses even in China.
-- [ProtonVPN](https://protonvpn.com/) - VPN that allows for circumvention of censorship even in China. Free plan bypasses along with multiple servers and protocols. No logs policy.
-- [Private Bridges](https://bridges.torproject.org/) - Go to `I need an alternative way of getting bridges!` section. Follow the instructions.
-- [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) - A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.
-- [StegoTorus](https://github.com/SRI-CSL/stegotorus) - A Camouflage Proxy for the Tor Anonymity System.
-- [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 ## Learning Resources
 - [Onion Routing Anatomy (Anatomia di Tor)](https://github.com/aleff-github/onion-routing-anatomy) - Free, open-source technical book on Tor internals with 20 reproducible laboratories on a private network. Developed with substantial AI contributions under human direction, without independent expert review. Includes AI-translated editions, including Russian, not independently checked by native speakers.
 ## Public reception, Impact, News, and Legislation
