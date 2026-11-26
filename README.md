@@ -15,6 +15,7 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
   - [Other applications](#other-applications)
 - [Bridges](#bridges)
 - [Bypass Censorship](#bypass-censorship)
+- [Learning Resources](#learning-resources)
 - [Public reception, Impact, News, and Legislation](#public-reception-impact-news-and-legislation)
 - [State of the Onion](#state-of-the-onion)
 - [Whistleblowing](#whistleblowing)
@@ -149,6 +150,8 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) - A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.
 - [StegoTorus](https://github.com/SRI-CSL/stegotorus) - A Camouflage Proxy for the Tor Anonymity System.
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
+## Learning Resources
+- [Onion Routing Anatomy (Anatomia di Tor)](https://github.com/aleff-github/onion-routing-anatomy) - Free, open-source technical book on Tor internals with 20 reproducible laboratories on a private network. Developed with substantial AI contributions under human direction, without independent expert review. Includes AI-translated editions, including Russian, not independently checked by native speakers.
 ## Public reception, Impact, News, and Legislation
 - [A close look at the Great Firewall of China](https://blog.torproject.org/closer-look-great-firewall-china/) - Some information about the censorship of Tor within China.
 - [Analyzing China's Blocking of Unpublished Tor Bridges](https://www.usenix.org/conference/foci18/presentation/dunna) - Study on how China blocks unlisted Tor bridges and how to prevent this.
