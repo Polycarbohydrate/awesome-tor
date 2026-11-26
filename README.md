@@ -35,8 +35,8 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Security Settings](https://tb-manual.torproject.org/security-settings/) - Configuring Tor Browser for security and usability.
 - [Support](https://tb-manual.torproject.org/support/) - How to get help, report a bug, or give feedback.
 - [Troubleshooting](https://tb-manual.torproject.org/troubleshooting/) - What to do if Tor Browser doesn't work properly.
-- [Updating](https://tb-manual.torproject.org/updating/) - How to update Tor Browser.
 - [Uninstalling](https://tb-manual.torproject.org/uninstalling/) - How to remove Tor Browser from your system.
+- [Updating](https://tb-manual.torproject.org/updating/) - How to update Tor Browser.
 ## Applications
 ### Tails
 *A portable, Debian-based OS that runs from the RAM, leaving no trace. Uses Tor Browser as the primary browser.*
@@ -53,8 +53,8 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Commmunity](https://community.torproject.org/)
 - [Donate](https://donate.torproject.org/)
 - [Download](https://www.torproject.org/download/)
-- [Support](https://support.torproject.org/)
 - [News](https://blog.torproject.org/)
+- [Support](https://support.torproject.org/)
 - Core Tor / Little-t-tor
   - [Installation / Verify source code](https://support.torproject.org/little-t-tor/)
   - [Forum / Support](https://forum.torproject.org/c/support/core-tor/18)
@@ -66,16 +66,15 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Bulk Tor Exit Exporter](https://check.torproject.org/api/bulk) - Identify Tor exit nodes by showing exit node IPv4 and fingerprint information.
 - [Chutney](https://gitlab.torproject.org/tpo/core/chutney/) - Configures a Tor network, launches and monitors it, and then runs tests on it.
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool. 
-- [DocTor](https://gitlab.torproject.org/tpo/network-health/doctor/) - A notification service that monitors newly published descriptor information for issues.
+- [DocTor](https://gitlab.torproject.org/tpo/network-health/doctor/) - A notification service that monitors newly published descriptor information for issues. 
+- [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
 - [eotk](https://github.com/alecmuffett/eotk) - Tool for deploying HTTP/Onion sites to provide official, onion-networking for popular websites.
 - [exitmap](https://www.cs.kau.se/philwint/spoiled_onions/) - Scanner for Tor to detect bad exits (spoiled onions).
 - [haskell-tor](https://github.com/GaloisInc/haskell-tor) - A Haskell implementation of the Tor protocol.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Only allows the browser to connect using HTTPS, built-in Tor.
 - [kalitorify](https://github.com/brainfucksec/kalitorify) - Shell script to create a transparent proxy through Tor for Kali Linux OS.
-- [Tor Metrics](https://metrics.torproject.org/) - Adjustable graphs to visualize the statistics of Tor.
-- [multitor](https://github.com/trimstray/multitor) - Create multiple Tor instances with load balancing.
 - [mini-tor](https://github.com/wbenny/mini-tor) - Smallest application size while accessing internet content and hidden service content.
+- [multitor](https://github.com/trimstray/multitor) - Create multiple Tor instances with load balancing.
 - [node-Tor](https://github.com/Ayms/node-Tor) - JavaScript open-source implementation of the Tor protocol on the server side and browsers.
 - [nyx](https://nyx.torproject.org/) - CLI interface which includes detailed real-time information about your relay.
 - [offensive-tor-toolkit](https://github.com/atorrescogollo/offensive-tor-toolkit) - Bind/Reverse Shells, SOCKS, etc over Tor in Go.
@@ -93,12 +92,13 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Ricochet Refresh](https://www.ricochetrefresh.net/) - A peer-to-peer messenger app that uses Tor to connect clients.
 - [rotating-proxy](https://github.com/mattes/rotating-proxy) - Rotating Tor proxy with Docker.
 - [sbws](https://gitlab.torproject.org/tpo/network-health/sbws) - A Tor bandwidth scanner that generates bandwidth files to be used by Directory Authorities.
-- [Stormy](https://github.com/glamrock/stormy) - A wizard that helps people create Tor Onion Services with just a few clicks.
 - [setup-tor](https://github.com/tor-actions/setup-tor) - Set up your GitHub Actions workflow with a specific version of Tor.
+- [Shadow](https://shadow.github.io/) - A discrete-event network simulator that runs the real Tor software as a plug-in.
 - [StegoTorus](https://github.com/SRI-CSL/stegotorus) - A Camouflage Proxy for the Tor Anonymity System.
 - [Stem](https://stem.torproject.org/) - A Python controller library for Tor.
-- [Shadow](https://shadow.github.io/) - A discrete-event network simulator that runs the real Tor software as a plug-in.
+- [Stormy](https://github.com/glamrock/stormy) - A wizard that helps people create Tor Onion Services with just a few clicks.
 - [Tallow](https://github.com/basil00/TorWall) - A program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
+- [Tor Metrics](https://metrics.torproject.org/) - Adjustable graphs to visualize the statistics of Tor.
 - [tor_box](https://github.com/CMoncur/tor_box) - An all-inclusive Tor configuration for Raspberry Pi, that serves as a relay and personal Tor network.
 - [Tor_Onion_Proxy](https://github.com/thaliproject/Tor_Onion_Proxy_Library) - Provides a .JAR and an .AAR file for embedding Tor into a Java or Android Program.
 - [tor_ssh.sh](https://gitlab.com/grownetics/devops/blob/master/tor_ssh.sh) - Command that allows SSH access using Tor to any server.
@@ -129,10 +129,10 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Flash Proxies](https://crypto.stanford.edu/flashproxy/) - Outdated and deprecated bridge type. It is a miniature proxy that runs in a web browser.
 - [fteproxy](https://fteproxy.org/) - Outdated and deprecated bridge type. Tor traffic resembles plain HTTP. The name stands for "Format-Transforming Encryption."
 - [meek](https://support.torproject.org/glossary/meek/) - These pluggable transports make it look like you are browsing a major website instead of using Tor.
-- [Private Bridges](https://bridges.torproject.org/) - Go to `I need an alternative way of getting bridges!` section. Follow the instructions.
 - [obsf2](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/trac/-/issues/10314) - Outdated and deprecated bridge type. Predecessor of obsf3.
 - [obsf3](https://support.torproject.org/glossary/obfs3/) - Outdated and deprecated bridge type. Predecessor of obsf4.
 - [obsf4](https://support.torproject.org/glossary/obfs4/) - A pluggable transport that makes Tor traffic look random and also prevents censors from finding bridges by Internet scanning.
+- [Private Bridges](https://bridges.torproject.org/) - Go to `I need an alternative way of getting bridges!` section. Follow the instructions.
 - [ScrambleSuit](https://github.com/NullHypothesis/scramblesuit) - Outdated and deprecated bridge type. A pluggable transport protocol for obfsproxy. It is written in pure Python.
 - [Snowflake](https://snowflake.torproject.org/) - Making your internet activity appear as though you're using the internet for a regular video or voice call.
 - [Webtunnel](https://blog.torproject.org/introducing-webtunnel-evading-censorship-by-hiding-in-plain-sight/) - A censorship-resistant pluggable transport designed to mimic encrypted web traffic (HTTPS) inspired by HTTPT.
@@ -163,14 +163,14 @@ Tor is a free overlay network for enabling anonymous communication. Built on fre
 - [Understanding The Onion Router in 2024](https://www.privacyjournal.net/privacy/tor-network/) - Explains what Tor is; update for 2024.
 - [What is Tor?](https://www.amnesty.org/en/latest/campaigns/2024/02/what-is-tor-and-how-does-it-advance-human-rights/) - Gives a very good explanation for Tor, Onion Services, and how it promotes human rights.
 ## State of the Onion
-- [2026](https://blog.torproject.org/event/state-of-the-onion-2026/) - State of the Onion for the year 2026.
-- [2025](https://blog.torproject.org/state-of-the-onion-2025/) - State of the Onion for the year 2025.
-- [2024](https://blog.torproject.org/state-of-the-onion-2024/) - State of the Onion for the year 2024.
-- [2023](https://blog.torproject.org/state-of-the-onion-2023/) - State of the Onion for the year 2023.
-- [2022](https://blog.torproject.org/state-of-the-onion-2022/) - State of the Onion for the year 2022.
-- [2021](https://blog.torproject.org/state-of-the-onion-2021/) - State of the Onion for the year 2021.
-- [2020](https://blog.torproject.org/state-of-the-onion-2020/) - State of the Onion for the year 2020.
 - [2019](https://www.youtube.com/watch?v=W0NR6M_08oM) - State of the Onion for the year 2019.
+- [2020](https://blog.torproject.org/state-of-the-onion-2020/) - State of the Onion for the year 2020.
+- [2021](https://blog.torproject.org/state-of-the-onion-2021/) - State of the Onion for the year 2021.
+- [2022](https://blog.torproject.org/state-of-the-onion-2022/) - State of the Onion for the year 2022.
+- [2023](https://blog.torproject.org/state-of-the-onion-2023/) - State of the Onion for the year 2023.
+- [2024](https://blog.torproject.org/state-of-the-onion-2024/) - State of the Onion for the year 2024.
+- [2025](https://blog.torproject.org/state-of-the-onion-2025/) - State of the Onion for the year 2025.
+- [2026](https://blog.torproject.org/event/state-of-the-onion-2026/) - State of the Onion for the year 2026.
 ## Whistleblowing
 - [GlobaLeaks](https://www.globaleaks.org/) - A free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [SecureDrop](https://securedrop.org/) - An open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
